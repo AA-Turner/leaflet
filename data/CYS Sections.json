@@ -1,0 +1,3852 @@
+[
+  {
+    "district": "Directly Administered District",
+    "group": "Leeds Teaching Hospitals Guide and Scout Group",
+    "sectionName": "Leeds Hospital Integrated Section",
+    "sectionType": "T",
+    "yp-males": 0,
+    "yp-females": 0,
+    "yp-total": 0,
+    "postcode": "LS1 3EX"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "District",
+    "sectionName": "Crusader Explorers",
+    "sectionType": "U",
+    "yp-males": 17,
+    "yp-females": 10,
+    "yp-total": 27,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "District",
+    "sectionName": "Knights Esu",
+    "sectionType": "U",
+    "yp-males": 7,
+    "yp-females": 3,
+    "yp-total": 10,
+    "postcode": "LS15 7RJ"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Allerton Bywater Miners Scout Group",
+    "sectionName": "Beaver 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 2,
+    "yp-total": 18,
+    "postcode": "WF10 2BN"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Allerton Bywater Miners Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 12,
+    "yp-females": 0,
+    "yp-total": 12,
+    "postcode": "WF10 2BN"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Allerton Bywater Miners Scout Group",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 2,
+    "yp-total": 12,
+    "postcode": "WF10 2BN"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "17th Colton Methodist",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 3,
+    "yp-total": 15,
+    "postcode": "LS15 9AH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "17th Colton Methodist",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 11,
+    "yp-females": 7,
+    "yp-total": 18,
+    "postcode": "LS15 9AH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "17th Colton Methodist",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 31,
+    "yp-females": 2,
+    "yp-total": 33,
+    "postcode": "LS15 9AH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "14th Crossgates Methodist Scout Group",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 3,
+    "yp-females": 2,
+    "yp-total": 5,
+    "postcode": "LS15 8AB"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "14th Crossgates Methodist Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 1,
+    "yp-females": 1,
+    "yp-total": 2,
+    "postcode": "LS15 8AB"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Beaver Scout Apache",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 2,
+    "yp-total": 14,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Beaver Scout Cherokee",
+    "sectionType": "C",
+    "yp-males": 11,
+    "yp-females": 1,
+    "yp-total": 12,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Cub Scout Eagles",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 1,
+    "yp-total": 21,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Cub Scout Ravens",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 1,
+    "yp-total": 21,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Scout Burma",
+    "sectionType": "T",
+    "yp-males": 22,
+    "yp-females": 1,
+    "yp-total": 23,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Garforth",
+    "sectionName": "Scout Delta",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 1,
+    "yp-total": 10,
+    "postcode": "LS25 1DT"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Leeds Templars Epiphany",
+    "sectionName": "Beaver Scouts",
+    "sectionType": "C",
+    "yp-males": 7,
+    "yp-females": 5,
+    "yp-total": 12,
+    "postcode": "LS9 6SW"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Leeds Templars Epiphany",
+    "sectionName": "cub scouts",
+    "sectionType": "P",
+    "yp-males": 8,
+    "yp-females": 4,
+    "yp-total": 12,
+    "postcode": "LS9 6SW"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Leeds Templars Epiphany",
+    "sectionName": "Phoenix Scout Troop",
+    "sectionType": "T",
+    "yp-males": 3,
+    "yp-females": 1,
+    "yp-total": 4,
+    "postcode": "LS9 6SW"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Manston St James Scout Group",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 2,
+    "yp-total": 16,
+    "postcode": "LS15 8JH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Manston St James Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 6,
+    "yp-total": 27,
+    "postcode": "LS15 8JH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Manston St James Scout Group",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 11,
+    "yp-females": 0,
+    "yp-total": 11,
+    "postcode": "LS15 8JH"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Micklefield Scout Group",
+    "sectionName": "Hartley Wood Beavers (Micklefield)",
+    "sectionType": "C",
+    "yp-males": 8,
+    "yp-females": 10,
+    "yp-total": 18,
+    "postcode": "LS25 4AF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Micklefield Scout Group",
+    "sectionName": "Micklefield Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 4,
+    "yp-total": 18,
+    "postcode": "LS25 4AF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st Micklefield Scout Group",
+    "sectionName": "1st Micklefield Scout Troop",
+    "sectionType": "T",
+    "yp-males": 7,
+    "yp-females": 2,
+    "yp-total": 9,
+    "postcode": "LS25 4AF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "13th St James (Seacroft) Scout Group",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 2,
+    "yp-females": 2,
+    "yp-total": 4,
+    "postcode": "LS14 6JS"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "13th St James (Seacroft) Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 5,
+    "yp-females": 5,
+    "yp-total": 10,
+    "postcode": "LS14 6JS"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "13th St James (Seacroft) Scout Group",
+    "sectionName": "13th St. James Scout Group",
+    "sectionType": "T",
+    "yp-males": 3,
+    "yp-females": 7,
+    "yp-total": 10,
+    "postcode": "LS14 6JS"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "15th St Theresa's Scout Group",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 11,
+    "yp-females": 0,
+    "yp-total": 11,
+    "postcode": "LS15 7JY"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "15th St Theresa's Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 10,
+    "yp-females": 4,
+    "yp-total": 14,
+    "postcode": "LS15 7JY"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "15th St Theresa's Scout Group",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 5,
+    "yp-total": 14,
+    "postcode": "LS15 7JY"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st St. Mary's",
+    "sectionName": "Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 1,
+    "yp-total": 13,
+    "postcode": "LS25 7HF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st St. Mary's",
+    "sectionName": "Cub Pack",
+    "sectionType": "P",
+    "yp-males": 8,
+    "yp-females": 1,
+    "yp-total": 9,
+    "postcode": "LS25 7HF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "1st St. Mary's",
+    "sectionName": "Scout Troop",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 4,
+    "yp-total": 16,
+    "postcode": "LS25 7HF"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Swillington (St. Mary's)",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 4,
+    "yp-females": 4,
+    "yp-total": 8,
+    "postcode": "LS26 8DX"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Swillington (St. Mary's)",
+    "sectionName": "Cubs",
+    "sectionType": "P",
+    "yp-males": 4,
+    "yp-females": 2,
+    "yp-total": 6,
+    "postcode": "LS26 8DX"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "Swillington (St. Mary's)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 4,
+    "yp-females": 4,
+    "yp-total": 8,
+    "postcode": "LS26 8DX"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "6th Whinmoor",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 7,
+    "yp-females": 6,
+    "yp-total": 13,
+    "postcode": "LS14 1EG"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "6th Whinmoor",
+    "sectionName": "Cub Scouts 1",
+    "sectionType": "P",
+    "yp-males": 9,
+    "yp-females": 3,
+    "yp-total": 12,
+    "postcode": "LS14 1EG"
+  },
+  {
+    "district": "Leeds Templars",
+    "group": "6th Whinmoor",
+    "sectionName": "6th Whinmoor Scouts",
+    "sectionType": "T",
+    "yp-males": 8,
+    "yp-females": 6,
+    "yp-total": 14,
+    "postcode": "LS14 1EG"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Blacksheep ESU",
+    "sectionType": "U",
+    "yp-males": 6,
+    "yp-females": 1,
+    "yp-total": 7,
+    "postcode": "LS16 5JT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "GSAL ESU",
+    "sectionType": "U",
+    "yp-males": 38,
+    "yp-females": 13,
+    "yp-total": 51,
+    "postcode": "LS17 8GS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Headingley Pirates ESU",
+    "sectionType": "U",
+    "yp-males": 5,
+    "yp-females": 2,
+    "yp-total": 7,
+    "postcode": "LS6 3HZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Marmots ESU",
+    "sectionType": "U",
+    "yp-males": 15,
+    "yp-females": 6,
+    "yp-total": 21,
+    "postcode": "LS8 1HG"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Mavericks ESU",
+    "sectionType": "U",
+    "yp-males": 7,
+    "yp-females": 2,
+    "yp-total": 9,
+    "postcode": "LS7 2PP"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Red Kite ESU",
+    "sectionType": "U",
+    "yp-males": 13,
+    "yp-females": 2,
+    "yp-total": 15,
+    "postcode": "LS8 1DS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "The Goonies ESU",
+    "sectionType": "U",
+    "yp-males": 15,
+    "yp-females": 13,
+    "yp-total": 28,
+    "postcode": "LS17 7PB"
+  },
+  {
+    "district": "North Leeds",
+    "group": "District",
+    "sectionName": "Young Leader Unit",
+    "sectionType": "Y",
+    "yp-males": 0,
+    "yp-females": 1,
+    "yp-total": 1,
+    "postcode": "LS17 7NZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "Hillcrest Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 26,
+    "yp-females": 34,
+    "yp-total": 60,
+    "postcode": "LS7 4DR"
+  },
+  {
+    "district": "North Leeds",
+    "group": "L.G.M. Scout Group",
+    "sectionName": "L.G.M. Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 10,
+    "yp-total": 27,
+    "postcode": "LS6 1SN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "43rd North Leeds Phoenix St Mary's",
+    "sectionName": "Beaver1",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 5,
+    "yp-total": 22,
+    "postcode": "LS5 3PT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "43rd North Leeds Phoenix St Mary's",
+    "sectionName": "Cubs1",
+    "sectionType": "P",
+    "yp-males": 10,
+    "yp-females": 3,
+    "yp-total": 13,
+    "postcode": "LS5 3PT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "43rd North Leeds Phoenix St Mary's",
+    "sectionName": "Scout1",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 6,
+    "yp-total": 16,
+    "postcode": "LS5 3PT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds The Grammar School At Leeds",
+    "sectionName": "The Grammar School at Leeds Cub Pack",
+    "sectionType": "P",
+    "yp-males": 31,
+    "yp-females": 11,
+    "yp-total": 42,
+    "postcode": "LS17 8GS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds The Grammar School At Leeds",
+    "sectionName": "The Grammar School at Leeds Scout Troop",
+    "sectionType": "T",
+    "yp-males": 49,
+    "yp-females": 24,
+    "yp-total": 73,
+    "postcode": "LS17 8GS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 19,
+    "yp-females": 1,
+    "yp-total": 20,
+    "postcode": "LS17 7NZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "West Park Beavers",
+    "sectionType": "C",
+    "yp-males": 1,
+    "yp-females": 0,
+    "yp-total": 1,
+    "postcode": "LS16 5HB"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 26,
+    "yp-females": 2,
+    "yp-total": 28,
+    "postcode": "LS17 7NZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "West Park Cubs",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 5,
+    "yp-total": 19,
+    "postcode": "LS16 5HB"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 28,
+    "yp-females": 6,
+    "yp-total": 34,
+    "postcode": "LS17 7NZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "16th North Leeds, Alwoodley Park",
+    "sectionName": "West Park Scouts",
+    "sectionType": "T",
+    "yp-males": 1,
+    "yp-females": 0,
+    "yp-total": 1,
+    "postcode": "LS16 5HB"
+  },
+  {
+    "district": "North Leeds",
+    "group": "30th North Leeds, Falkoner(Headingley Methodist)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 5,
+    "yp-total": 14,
+    "postcode": "LS6 3HZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "30th North Leeds, Falkoner(Headingley Methodist)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 9,
+    "yp-total": 26,
+    "postcode": "LS6 3HZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "30th North Leeds, Falkoner(Headingley Methodist)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 1,
+    "yp-total": 17,
+    "postcode": "LS6 3HZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "22nd North Leeds, Hillel",
+    "sectionName": "Beaver 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS17 7TN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "22nd North Leeds, Hillel",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 0,
+    "yp-total": 23,
+    "postcode": "LS17 7TN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "22nd North Leeds, Hillel",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 11,
+    "yp-females": 0,
+    "yp-total": 11,
+    "postcode": "LS17 7TN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "24th North Leeds, Immaculate Heart of Mary RC Chur",
+    "sectionName": "24th I.H.O.M. Beaver Scouts",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 4,
+    "yp-total": 24,
+    "postcode": "LS17 6LE"
+  },
+  {
+    "district": "North Leeds",
+    "group": "24th North Leeds, Immaculate Heart of Mary RC Chur",
+    "sectionName": "24th I.H.O.M. Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 27,
+    "yp-females": 6,
+    "yp-total": 33,
+    "postcode": "LS17 6LE"
+  },
+  {
+    "district": "North Leeds",
+    "group": "24th North Leeds, Immaculate Heart of Mary RC Chur",
+    "sectionName": "24th I.H.O.M. Scouts",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 8,
+    "yp-total": 24,
+    "postcode": "LS17 6LE"
+  },
+  {
+    "district": "North Leeds",
+    "group": "26th North Leeds, Meanwood Parish Church",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 7,
+    "yp-total": 17,
+    "postcode": "LS6 4LF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "26th North Leeds, Meanwood Parish Church",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS6 4LF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "26th North Leeds, Meanwood Parish Church",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 0,
+    "yp-total": 19,
+    "postcode": "LS6 4LF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "1st North Leeds, Moor Allerton",
+    "sectionName": "1st North Leeds (Moor Allerton) Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 6,
+    "yp-total": 21,
+    "postcode": "LS17 7BZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "1st North Leeds, Moor Allerton",
+    "sectionName": "1st North Leeds (Moor Allerton) Scouts",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 5,
+    "yp-total": 20,
+    "postcode": "LS17 7BZ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "9th North Leeds, Roundhay Methodist",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS8 2QA"
+  },
+  {
+    "district": "North Leeds",
+    "group": "9th North Leeds, Roundhay Methodist",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS8 2QA"
+  },
+  {
+    "district": "North Leeds",
+    "group": "9th North Leeds, Roundhay Methodist",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 26,
+    "yp-females": 0,
+    "yp-total": 26,
+    "postcode": "LS8 2QA"
+  },
+  {
+    "district": "North Leeds",
+    "group": "11th North Leeds, St Andrew's",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 0,
+    "yp-total": 18,
+    "postcode": "LS8 1DS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "11th North Leeds, St Andrew's",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 22,
+    "yp-females": 0,
+    "yp-total": 22,
+    "postcode": "LS8 1DS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "11th North Leeds, St Andrew's",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 4,
+    "yp-females": 1,
+    "yp-total": 5,
+    "postcode": "LS8 1DS"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Blue Beavers",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS8 1JN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Gold Beavers",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS8 1JN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Blue Pack Cubs",
+    "sectionType": "P",
+    "yp-males": 28,
+    "yp-females": 0,
+    "yp-total": 28,
+    "postcode": "LS8 1JN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Gold Pack Cubs",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 1,
+    "yp-total": 21,
+    "postcode": "LS8 1JN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Scout Troop 1",
+    "sectionType": "T",
+    "yp-males": 23,
+    "yp-females": 3,
+    "yp-total": 26,
+    "postcode": "LS8 1JN"
+  },
+  {
+    "district": "North Leeds",
+    "group": "10th North Leeds, St Edmund's",
+    "sectionName": "Scout Troop 2",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 0,
+    "yp-total": 19,
+    "postcode": "LS8 1HB"
+  },
+  {
+    "district": "North Leeds",
+    "group": "19th North Leeds, St. Chad's",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 15,
+    "yp-females": 6,
+    "yp-total": 21,
+    "postcode": "LS16 5JT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "19th North Leeds, St. Chad's",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 31,
+    "yp-females": 10,
+    "yp-total": 41,
+    "postcode": "LS16 5JT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "19th North Leeds, St. Chad's",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 18,
+    "yp-females": 20,
+    "yp-total": 38,
+    "postcode": "LS16 5JT"
+  },
+  {
+    "district": "North Leeds",
+    "group": "7th North Leeds, St. Matthew's (Chapel Allerton",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 5,
+    "yp-total": 14,
+    "postcode": "LS7 3QF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "7th North Leeds, St. Matthew's (Chapel Allerton",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 7,
+    "yp-total": 27,
+    "postcode": "LS7 3QF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "7th North Leeds, St. Matthew's (Chapel Allerton",
+    "sectionName": "Scout",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 7,
+    "yp-total": 21,
+    "postcode": "LS7 3QF"
+  },
+  {
+    "district": "North Leeds",
+    "group": "Salam Scout Group",
+    "sectionName": "Salam Scouts",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 4,
+    "yp-total": 16,
+    "postcode": "LS6 1LJ"
+  },
+  {
+    "district": "North Leeds",
+    "group": "8th Staenwald, North Leeds",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 1,
+    "yp-total": 19,
+    "postcode": "LS7 2PP"
+  },
+  {
+    "district": "North Leeds",
+    "group": "8th Staenwald, North Leeds",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 6,
+    "yp-total": 25,
+    "postcode": "LS6 4LD"
+  },
+  {
+    "district": "North Leeds",
+    "group": "8th Staenwald, North Leeds",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 1,
+    "yp-total": 16,
+    "postcode": "LS6 4LD"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "District",
+    "sectionName": "Panthers ESU",
+    "sectionType": "U",
+    "yp-males": 12,
+    "yp-females": 3,
+    "yp-total": 15,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "District",
+    "sectionName": "YL ESU",
+    "sectionType": "Y",
+    "yp-males": 9,
+    "yp-females": 4,
+    "yp-total": 13,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Ackworth",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "WF7 7HQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Ackworth",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 2,
+    "yp-total": 22,
+    "postcode": "WF7 7HQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Ackworth",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 5,
+    "yp-females": 3,
+    "yp-total": 8,
+    "postcode": "WF7 7HQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Altofts (St. Mary Magdelene)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 7,
+    "yp-total": 17,
+    "postcode": "WF6 2NJ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Altofts (St. Mary Magdelene)",
+    "sectionName": "1st Altofts Cubs",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 8,
+    "yp-total": 25,
+    "postcode": "WF6 2NJ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Altofts (St. Mary Magdelene)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 11,
+    "yp-total": 20,
+    "postcode": "WF6 2NJ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "3rd Featherstone",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 3,
+    "yp-total": 12,
+    "postcode": "WF7 5BH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "3rd Featherstone",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 0,
+    "yp-total": 13,
+    "postcode": "WF7 5BH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "3rd Featherstone",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 7,
+    "yp-total": 20,
+    "postcode": "WF7 5BH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Fryston",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 4,
+    "yp-females": 2,
+    "yp-total": 6,
+    "postcode": "WF10 2QH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Fryston",
+    "sectionName": "Cubs",
+    "sectionType": "P",
+    "yp-males": 5,
+    "yp-females": 3,
+    "yp-total": 8,
+    "postcode": "WF10 2QH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Fryston",
+    "sectionName": "1st Fryston",
+    "sectionType": "T",
+    "yp-males": 5,
+    "yp-females": 0,
+    "yp-total": 5,
+    "postcode": "WF10 2QH"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Normanton (Parish)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 2,
+    "yp-total": 14,
+    "postcode": "WF6 1AG"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Normanton (Parish)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 2,
+    "yp-total": 17,
+    "postcode": "WF6 1AG"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Normanton (Parish)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 6,
+    "yp-total": 21,
+    "postcode": "WF6 1AG"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Pontefract",
+    "sectionName": "Beaver Scout 1 Tuesday",
+    "sectionType": "C",
+    "yp-males": 24,
+    "yp-females": 2,
+    "yp-total": 26,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Pontefract",
+    "sectionName": "Beaver Scout 2 Wednesday",
+    "sectionType": "C",
+    "yp-males": 25,
+    "yp-females": 3,
+    "yp-total": 28,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Pontefract",
+    "sectionName": "Cub Scout 1 Baden",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Pontefract",
+    "sectionName": "Cub Scout 2 Powell",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 6,
+    "yp-total": 25,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Pontefract",
+    "sectionName": "Scout 2 Wednesday",
+    "sectionType": "T",
+    "yp-males": 20,
+    "yp-females": 4,
+    "yp-total": 24,
+    "postcode": "WF8 2LQ"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "Trinity Methodist Castleford",
+    "sectionName": "Trinity Methodist Beaver Scouts",
+    "sectionType": "C",
+    "yp-males": 8,
+    "yp-females": 3,
+    "yp-total": 11,
+    "postcode": "WF10 1EL"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "Trinity Methodist Castleford",
+    "sectionName": "Trinity Methodist Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 12,
+    "yp-females": 1,
+    "yp-total": 13,
+    "postcode": "WF10 1EL"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "Trinity Methodist Castleford",
+    "sectionName": "Trinity Methodist Scout Troop",
+    "sectionType": "T",
+    "yp-males": 8,
+    "yp-females": 1,
+    "yp-total": 9,
+    "postcode": "WF10 1EL"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Xscape",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 7,
+    "yp-females": 3,
+    "yp-total": 10,
+    "postcode": "WF10 4TA"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Xscape",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 7,
+    "yp-total": 21,
+    "postcode": "WF10 4TA"
+  },
+  {
+    "district": "Pontefract & Castleford",
+    "group": "1st Xscape",
+    "sectionName": "Scouts 1",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 3,
+    "yp-total": 12,
+    "postcode": "WF10 4TA"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "District",
+    "sectionName": "Honey Badgers ShireOak (Leeds) Explorer Scout Unit",
+    "sectionType": "U",
+    "yp-males": 24,
+    "yp-females": 6,
+    "yp-total": 30,
+    "postcode": "LS20 9BB"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "District",
+    "sectionName": "Little Acorns ShireOak (Leeds) Young Leaders Explo",
+    "sectionType": "U",
+    "yp-males": 3,
+    "yp-females": 2,
+    "yp-total": 5,
+    "postcode": "Not declared"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "District",
+    "sectionName": "Penfold ShireOak (Leeds) Explorer Scout Unit",
+    "sectionType": "U",
+    "yp-males": 7,
+    "yp-females": 2,
+    "yp-total": 9,
+    "postcode": "LS16 7SY"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "District",
+    "sectionName": "Tenzing ShireOak (Leeds) Explorer Scout Unit",
+    "sectionType": "U",
+    "yp-males": 29,
+    "yp-females": 3,
+    "yp-total": 32,
+    "postcode": "LS18 4RJ"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Adel Methodist",
+    "sectionName": "Beaver Scout Monday Colony",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 0,
+    "yp-total": 21,
+    "postcode": "LS16 7JX"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Adel Methodist",
+    "sectionName": "Cub Monday Pack",
+    "sectionType": "P",
+    "yp-males": 22,
+    "yp-females": 0,
+    "yp-total": 22,
+    "postcode": "LS16 7JX"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Adel Methodist",
+    "sectionName": "Scout Monday Troop",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 2,
+    "yp-total": 14,
+    "postcode": "LS16 7JX"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "7th Airedale (St. Margaret's)",
+    "sectionName": "Beaver Tuesday Colony",
+    "sectionType": "C",
+    "yp-males": 22,
+    "yp-females": 1,
+    "yp-total": 23,
+    "postcode": "LS18 4DU"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "7th Airedale (St. Margaret's)",
+    "sectionName": "Cub Scout Monday Pack",
+    "sectionType": "P",
+    "yp-males": 24,
+    "yp-females": 0,
+    "yp-total": 24,
+    "postcode": "LS18 4DU"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "7th Airedale (St. Margaret's)",
+    "sectionName": "Scout Troop 1",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 0,
+    "yp-total": 15,
+    "postcode": "LS18 4DU"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Beaver Monday Colony",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 0,
+    "yp-total": 16,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Beaver Thursday Colony",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 0,
+    "yp-total": 16,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Cub Scout Monday Pack",
+    "sectionType": "P",
+    "yp-males": 18,
+    "yp-females": 0,
+    "yp-total": 18,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Cub Scout Thursday Pack",
+    "sectionType": "P",
+    "yp-males": 24,
+    "yp-females": 0,
+    "yp-total": 24,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Scout Monday Troop",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 5,
+    "yp-total": 20,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "9th Airedale",
+    "sectionName": "Scout Thursday Troop",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 0,
+    "yp-total": 16,
+    "postcode": "LS18 4BH"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "10th Airedale",
+    "sectionName": "Beaver Maple (Tuesday) Colony",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 5,
+    "yp-total": 22,
+    "postcode": "LS19 7HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "10th Airedale",
+    "sectionName": "Beaver Redwood (Wednesday) Colony",
+    "sectionType": "C",
+    "yp-males": 24,
+    "yp-females": 1,
+    "yp-total": 25,
+    "postcode": "LS19 7HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "10th Airedale",
+    "sectionName": "Cub Scouts (Friday) Pack",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 3,
+    "yp-total": 22,
+    "postcode": "LS19 7HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "10th Airedale",
+    "sectionName": "Cub Scouts (Thursday) Pack",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 3,
+    "yp-total": 23,
+    "postcode": "LS19 7HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "10th Airedale",
+    "sectionName": "Scouts (Monday) troop",
+    "sectionType": "T",
+    "yp-males": 28,
+    "yp-females": 6,
+    "yp-total": 34,
+    "postcode": "LS19 7HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "12th Airedale (Trinity)",
+    "sectionName": "Beaver (tuesday) Colony",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 0,
+    "yp-total": 14,
+    "postcode": "LS19 6AS"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "12th Airedale (Trinity)",
+    "sectionName": "Cub Tuesday Pack",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 1,
+    "yp-total": 14,
+    "postcode": "LS19 6AS"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "12th Airedale (Trinity)",
+    "sectionName": "Scout Monday Troop",
+    "sectionType": "T",
+    "yp-males": 18,
+    "yp-females": 5,
+    "yp-total": 23,
+    "postcode": "LS19 6AS"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "14th Airedale (Guiseley Methodist)",
+    "sectionName": "Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS20 9EP"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "14th Airedale (Guiseley Methodist)",
+    "sectionName": "Cub Pack",
+    "sectionType": "P",
+    "yp-males": 27,
+    "yp-females": 1,
+    "yp-total": 28,
+    "postcode": "LS20 9EP"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "14th Airedale (Guiseley Methodist)",
+    "sectionName": "Scout Troop",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 0,
+    "yp-total": 13,
+    "postcode": "LS20 9EP"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "15th Airedale (St Oswalds)",
+    "sectionName": "Beaver Tuesday Colony",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 1,
+    "yp-total": 22,
+    "postcode": "LS20 9BT"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "15th Airedale (St Oswalds)",
+    "sectionName": "Cub Monday Pack",
+    "sectionType": "P",
+    "yp-males": 8,
+    "yp-females": 0,
+    "yp-total": 8,
+    "postcode": "LS20 9BT"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "15th Airedale (St Oswalds)",
+    "sectionName": "Cub Wednesday Pack",
+    "sectionType": "P",
+    "yp-males": 12,
+    "yp-females": 1,
+    "yp-total": 13,
+    "postcode": "LS20 9BT"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "15th Airedale (St Oswalds)",
+    "sectionName": "Scouts Friday Troop",
+    "sectionType": "T",
+    "yp-males": 23,
+    "yp-females": 3,
+    "yp-total": 26,
+    "postcode": "LS20 9BT"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "16th Airedale (Yeadon Methodist)",
+    "sectionName": "Beaver Friday Colony",
+    "sectionType": "C",
+    "yp-males": 8,
+    "yp-females": 1,
+    "yp-total": 9,
+    "postcode": "LS19 7RG"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "16th Airedale (Yeadon Methodist)",
+    "sectionName": "Beaver Tuesday Colony",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 0,
+    "yp-total": 14,
+    "postcode": "LS19 7RG"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "16th Airedale (Yeadon Methodist)",
+    "sectionName": "Cub Scout Innes (Wednesday) Pack",
+    "sectionType": "P",
+    "yp-males": 30,
+    "yp-females": 2,
+    "yp-total": 32,
+    "postcode": "LS19 7RG"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "16th Airedale (Yeadon Methodist)",
+    "sectionName": "Cub Scout Reed (Monday) Pack",
+    "sectionType": "P",
+    "yp-males": 18,
+    "yp-females": 3,
+    "yp-total": 21,
+    "postcode": "LS19 7RG"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "16th Airedale (Yeadon Methodist)",
+    "sectionName": "Scout Thursday Troop",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 1,
+    "yp-total": 16,
+    "postcode": "LS19 7RG"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Bramhope Village",
+    "sectionName": "Beaver Scout Friday Colony",
+    "sectionType": "C",
+    "yp-males": 24,
+    "yp-females": 1,
+    "yp-total": 25,
+    "postcode": "LS16 9BW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Bramhope Village",
+    "sectionName": "Cub Tuesday Pack",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 6,
+    "yp-total": 27,
+    "postcode": "LS16 9BW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Bramhope Village",
+    "sectionName": "Scout Monday Troop",
+    "sectionType": "T",
+    "yp-males": 24,
+    "yp-females": 4,
+    "yp-total": 28,
+    "postcode": "LS16 9BW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Church of The Holy Name Ireland Wood",
+    "sectionName": "Beaver Thursday Colony",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS16 6HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Church of The Holy Name Ireland Wood",
+    "sectionName": "Cub Thursday Pack",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 11,
+    "yp-total": 30,
+    "postcode": "LS16 6HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Church of The Holy Name Ireland Wood",
+    "sectionName": "Holy Name Scout Group",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 6,
+    "yp-total": 22,
+    "postcode": "LS16 6HW"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Methodist",
+    "sectionName": "Beaver Friday Colony",
+    "sectionType": "C",
+    "yp-males": 22,
+    "yp-females": 0,
+    "yp-total": 22,
+    "postcode": "LS16 7DF"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Methodist",
+    "sectionName": "Cub Monday Pack",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 7,
+    "yp-total": 23,
+    "postcode": "LS16 7DF"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Methodist",
+    "sectionName": "Scout Friday Troop",
+    "sectionType": "T",
+    "yp-males": 20,
+    "yp-females": 4,
+    "yp-total": 24,
+    "postcode": "LS16 7DF"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Village",
+    "sectionName": "Beaver Wharfedale Colony",
+    "sectionType": "C",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS16 7SY"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Village",
+    "sectionName": "Cub Centurions Pack",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 3,
+    "yp-total": 26,
+    "postcode": "LS16 7SY"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Cookridge Village",
+    "sectionName": "Scout Fellsman Troop",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 0,
+    "yp-total": 13,
+    "postcode": "LS16 7SY"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Rawdon Village Scout Group",
+    "sectionName": "Beaver Scout Colony",
+    "sectionType": "C",
+    "yp-males": 27,
+    "yp-females": 1,
+    "yp-total": 28,
+    "postcode": "LS19 6QQ"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Rawdon Village Scout Group",
+    "sectionName": "Monday Beavers",
+    "sectionType": "C",
+    "yp-males": 22,
+    "yp-females": 1,
+    "yp-total": 23,
+    "postcode": "LS19 6QQ"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Rawdon Village Scout Group",
+    "sectionName": "Cub Scouts Pack",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 1,
+    "yp-total": 17,
+    "postcode": "LS19 6QQ"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "Rawdon Village Scout Group",
+    "sectionName": "Scouts",
+    "sectionType": "T",
+    "yp-males": 4,
+    "yp-females": 0,
+    "yp-total": 4,
+    "postcode": "LS19 6QQ"
+  },
+  {
+    "district": "Shire Oak (Leeds)",
+    "group": "St Paul's - (Ireland Wood and Tinshill)",
+    "sectionName": "Cub Tuesday Pack",
+    "sectionType": "P",
+    "yp-males": 3,
+    "yp-females": 0,
+    "yp-total": 3,
+    "postcode": "LS16 6BS"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "District",
+    "sectionName": "Meerkat Explorers",
+    "sectionType": "U",
+    "yp-males": 18,
+    "yp-females": 4,
+    "yp-total": 22,
+    "postcode": "WF3 1JZ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "District",
+    "sectionName": "Mongoose Explorers",
+    "sectionType": "U",
+    "yp-males": 15,
+    "yp-females": 8,
+    "yp-total": 23,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "2nd Morley (East Ardsley)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 3,
+    "yp-total": 17,
+    "postcode": "WF3 2AU"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "4th Morley (Gildersome)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 3,
+    "yp-total": 19,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "4th Morley (Gildersome)",
+    "sectionName": "Beaver Scout 2",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 3,
+    "yp-total": 17,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "4th Morley (Gildersome)",
+    "sectionName": "Lion Cub Pack",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 6,
+    "yp-total": 21,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "4th Morley (Gildersome)",
+    "sectionName": "Tiger Cub Pack",
+    "sectionType": "P",
+    "yp-males": 30,
+    "yp-females": 2,
+    "yp-total": 32,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "4th Morley (Gildersome)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 4,
+    "yp-total": 23,
+    "postcode": "LS27 7AB"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "6th Morley (Churwell)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 6,
+    "yp-total": 24,
+    "postcode": "LS27 8PG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "6th Morley (Churwell)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 2,
+    "yp-total": 25,
+    "postcode": "LS27 8PG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "6th Morley (Churwell)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 22,
+    "yp-females": 7,
+    "yp-total": 29,
+    "postcode": "LS27 8PG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "10th Morley (Drighlington)",
+    "sectionName": "Beavers Scout 1",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 6,
+    "yp-total": 16,
+    "postcode": "BD11 1LJ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "10th Morley (Drighlington)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 6,
+    "yp-total": 23,
+    "postcode": "BD11 1LJ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "10th Morley (Drighlington)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 5,
+    "yp-total": 17,
+    "postcode": "BD11 1LJ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "12th Morley",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 22,
+    "yp-females": 4,
+    "yp-total": 26,
+    "postcode": "LS27 9NW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "12th Morley",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 0,
+    "yp-total": 23,
+    "postcode": "LS27 9NW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "12th Morley",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 20,
+    "yp-females": 6,
+    "yp-total": 26,
+    "postcode": "LS27 9NW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "15th Morley (St Marys Woodkirk)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 23,
+    "yp-females": 3,
+    "yp-total": 26,
+    "postcode": "WF12 7JL"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "15th Morley (St Marys Woodkirk)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 2,
+    "yp-total": 17,
+    "postcode": "WF12 7JL"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "15th Morley (St Marys Woodkirk)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 17,
+    "yp-females": 2,
+    "yp-total": 19,
+    "postcode": "WF12 7JL"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "1st South Leeds and Morley (Beeston)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 7,
+    "yp-total": 17,
+    "postcode": "LS11 8AG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "1st South Leeds and Morley (Beeston)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 18,
+    "yp-females": 3,
+    "yp-total": 21,
+    "postcode": "LS11 8AG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "1st South Leeds and Morley (Beeston)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 2,
+    "yp-total": 14,
+    "postcode": "LS11 8AG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "2nd South Leeds (Belle Isle URC)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 13,
+    "yp-females": 2,
+    "yp-total": 15,
+    "postcode": "LS10 3LG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "2nd South Leeds (Belle Isle URC)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 4,
+    "yp-total": 17,
+    "postcode": "LS10 3LG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "2nd South Leeds (Belle Isle URC)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 12,
+    "yp-total": 24,
+    "postcode": "LS10 3LG"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "7th South Leeds (Rothwell)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 2,
+    "yp-total": 19,
+    "postcode": "LS26 0LW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "7th South Leeds (Rothwell)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 2,
+    "yp-total": 19,
+    "postcode": "LS26 0LW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "7th South Leeds (Rothwell)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 1,
+    "yp-total": 14,
+    "postcode": "LS26 0LW"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) Red Colony",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 4,
+    "yp-total": 18,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) White Colony",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 8,
+    "yp-total": 20,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) Red Pack",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 6,
+    "yp-total": 19,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) White Pack",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 4,
+    "yp-total": 24,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) Red Scout Troop",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 9,
+    "yp-total": 18,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "8th South Leeds (Carlton)",
+    "sectionName": "8th South Leeds (Carlton) White Scout Troop",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 6,
+    "yp-total": 16,
+    "postcode": "WF3 3SQ"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "9th South Leeds (Oulton St.John's)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 13,
+    "yp-females": 0,
+    "yp-total": 13,
+    "postcode": "LS26 8EX"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "9th South Leeds (Oulton St.John's)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 12,
+    "yp-females": 1,
+    "yp-total": 13,
+    "postcode": "LS26 8EX"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "9th South Leeds (Oulton St.John's)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 1,
+    "yp-total": 15,
+    "postcode": "LS26 8EX"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "11th South Leeds (St Luke's Holbeck) Scout Group",
+    "sectionName": "Beaver Section",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 0,
+    "yp-total": 10,
+    "postcode": "LS11 8PH"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "11th South Leeds (St Luke's Holbeck) Scout Group",
+    "sectionName": "Cub Section",
+    "sectionType": "P",
+    "yp-males": 7,
+    "yp-females": 1,
+    "yp-total": 8,
+    "postcode": "LS11 8PH"
+  },
+  {
+    "district": "South Leeds & Morley",
+    "group": "11th South Leeds (St Luke's Holbeck) Scout Group",
+    "sectionName": "Scout Section",
+    "sectionType": "T",
+    "yp-males": 6,
+    "yp-females": 3,
+    "yp-total": 9,
+    "postcode": "LS11 8PH"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Apollo",
+    "sectionType": "U",
+    "yp-males": 10,
+    "yp-females": 3,
+    "yp-total": 13,
+    "postcode": "WF2 0BT"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Landvaettir",
+    "sectionType": "U",
+    "yp-males": 6,
+    "yp-females": 2,
+    "yp-total": 8,
+    "postcode": "WF2 0JS"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Newmillerdam",
+    "sectionType": "U",
+    "yp-males": 8,
+    "yp-females": 2,
+    "yp-total": 10,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Phoenix ESU",
+    "sectionType": "U",
+    "yp-males": 19,
+    "yp-females": 1,
+    "yp-total": 20,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Titan",
+    "sectionType": "U",
+    "yp-males": 11,
+    "yp-females": 6,
+    "yp-total": 17,
+    "postcode": "WF1 2DT"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Vikings",
+    "sectionType": "U",
+    "yp-males": 4,
+    "yp-females": 1,
+    "yp-total": 5,
+    "postcode": "WF2 8QR"
+  },
+  {
+    "district": "Wakefield",
+    "group": "District",
+    "sectionName": "Black Sheep",
+    "sectionType": "Y",
+    "yp-males": 3,
+    "yp-females": 2,
+    "yp-total": 5,
+    "postcode": "Not declared"
+  },
+  {
+    "district": "Wakefield",
+    "group": "IXth Wakefield (South Ossett)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "WF5 0LQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "IXth Wakefield (South Ossett)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 22,
+    "yp-females": 0,
+    "yp-total": 22,
+    "postcode": "WF5 0LQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "IXth Wakefield (South Ossett)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 0,
+    "yp-total": 14,
+    "postcode": "WF5 0LQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "2nd Wakefield (Crofton)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 19,
+    "yp-females": 6,
+    "yp-total": 25,
+    "postcode": "WF4 1NN"
+  },
+  {
+    "district": "Wakefield",
+    "group": "2nd Wakefield (Crofton)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 7,
+    "yp-total": 20,
+    "postcode": "WF4 1NN"
+  },
+  {
+    "district": "Wakefield",
+    "group": "2nd Wakefield (Crofton)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 9,
+    "yp-total": 28,
+    "postcode": "WF4 1NN"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Calder Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 11,
+    "yp-females": 0,
+    "yp-total": 11,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Hebble Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 0,
+    "yp-total": 9,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "St Georges Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 0,
+    "yp-total": 9,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Coxley Cub Pack",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 3,
+    "yp-total": 20,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Stoneycliffe Cub Pack",
+    "sectionType": "P",
+    "yp-males": 12,
+    "yp-females": 5,
+    "yp-total": 17,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Fawcett Scout Troop",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 2,
+    "yp-total": 11,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "8th Wakefield (Horbury Bridge)",
+    "sectionName": "Hedges Scout Troop",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 1,
+    "yp-total": 15,
+    "postcode": "WF4 5PP"
+  },
+  {
+    "district": "Wakefield",
+    "group": "12th Wakefield",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 13,
+    "yp-females": 4,
+    "yp-total": 17,
+    "postcode": "WF2 8QR"
+  },
+  {
+    "district": "Wakefield",
+    "group": "12th Wakefield",
+    "sectionName": "Bear Cubs",
+    "sectionType": "P",
+    "yp-males": 10,
+    "yp-females": 3,
+    "yp-total": 13,
+    "postcode": "WF2 8QR"
+  },
+  {
+    "district": "Wakefield",
+    "group": "12th Wakefield",
+    "sectionName": "Wolf Cubs",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 5,
+    "yp-total": 20,
+    "postcode": "WF2 8QR"
+  },
+  {
+    "district": "Wakefield",
+    "group": "12th Wakefield",
+    "sectionName": "Scouts",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 2,
+    "yp-total": 15,
+    "postcode": "WF2 8QR"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Owler Beaver Colony (Monday)",
+    "sectionType": "C",
+    "yp-males": 1,
+    "yp-females": 0,
+    "yp-total": 1,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Seckar Beaver Colony (Tuesday)",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 1,
+    "yp-total": 19,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Slaptail Beaver Colony (Friday)",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 3,
+    "yp-total": 17,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Newmill Cub Pack (Wednesday)",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 3,
+    "yp-total": 16,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Woodmoor Cub Pack (Monday)",
+    "sectionType": "P",
+    "yp-males": 27,
+    "yp-females": 2,
+    "yp-total": 29,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Thursday Scouts",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 4,
+    "yp-total": 19,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "15th Wakefield (Sandal Magna)",
+    "sectionName": "Tuesday Scouts",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 3,
+    "yp-total": 18,
+    "postcode": "WF2 6QQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "17th Wakefield (Outwood Church)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 3,
+    "yp-total": 19,
+    "postcode": "WF1 2DT"
+  },
+  {
+    "district": "Wakefield",
+    "group": "17th Wakefield (Outwood Church)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 9,
+    "yp-females": 16,
+    "yp-total": 25,
+    "postcode": "WF1 2NE"
+  },
+  {
+    "district": "Wakefield",
+    "group": "17th Wakefield (Outwood Church)",
+    "sectionName": "Scouts",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 20,
+    "yp-total": 36,
+    "postcode": "WF1 2DT"
+  },
+  {
+    "district": "Wakefield",
+    "group": "20th Wakefield (Stanley) Scout Group",
+    "sectionName": "Beaver Colony",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 8,
+    "yp-total": 22,
+    "postcode": "WF3 4JQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "20th Wakefield (Stanley) Scout Group",
+    "sectionName": "Cub Pack",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 6,
+    "yp-total": 26,
+    "postcode": "WF3 4JQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "20th Wakefield (Stanley) Scout Group",
+    "sectionName": "Scout Troop",
+    "sectionType": "T",
+    "yp-males": 8,
+    "yp-females": 9,
+    "yp-total": 17,
+    "postcode": "WF3 4JQ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "23rd Wakefield (Sandal Methodist)",
+    "sectionName": "Hammett Beavers",
+    "sectionType": "C",
+    "yp-males": 8,
+    "yp-females": 2,
+    "yp-total": 10,
+    "postcode": "WF1 5NU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "23rd Wakefield (Sandal Methodist)",
+    "sectionName": "Blagden Cubs",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 13,
+    "yp-total": 28,
+    "postcode": "WF1 5NU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "23rd Wakefield (Sandal Methodist)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 3,
+    "yp-total": 17,
+    "postcode": "WF1 5NU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "25th Wakefield (St. John's)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 5,
+    "yp-total": 17,
+    "postcode": "WF1 2QU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "25th Wakefield (St. John's)",
+    "sectionName": "Beaver Scout 2",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 5,
+    "yp-total": 17,
+    "postcode": "WF1 2QU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "25th Wakefield (St. John's)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 7,
+    "yp-females": 6,
+    "yp-total": 13,
+    "postcode": "WF1 2QU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "25th Wakefield (St. John's)",
+    "sectionName": "Cub Scout 2",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 3,
+    "yp-total": 20,
+    "postcode": "WF1 2QU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "25th Wakefield (St. John's)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 2,
+    "yp-total": 18,
+    "postcode": "WF1 2QU"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 1",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 15,
+    "yp-total": 29,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 2",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 10,
+    "yp-total": 27,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 3",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 9,
+    "yp-total": 26,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 4",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 16,
+    "yp-total": 29,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 5",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 14,
+    "yp-total": 29,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Cub Pack 6",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 12,
+    "yp-total": 28,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Scout Troop 1",
+    "sectionType": "T",
+    "yp-males": 9,
+    "yp-females": 14,
+    "yp-total": 23,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Scout Troop 2",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 12,
+    "yp-total": 22,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "28th Wakefield (Snapethorpe School)",
+    "sectionName": "Scout Troop 3",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 12,
+    "yp-total": 22,
+    "postcode": "WF2 8AA"
+  },
+  {
+    "district": "Wakefield",
+    "group": "31st Wakefield (St. Anne's)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 19,
+    "yp-females": 4,
+    "yp-total": 23,
+    "postcode": "WF2 0JS"
+  },
+  {
+    "district": "Wakefield",
+    "group": "31st Wakefield (St. Anne's)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 25,
+    "yp-females": 5,
+    "yp-total": 30,
+    "postcode": "WF2 0JS"
+  },
+  {
+    "district": "Wakefield",
+    "group": "31st Wakefield (St. Anne's)",
+    "sectionName": "Scout Section",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 7,
+    "yp-total": 19,
+    "postcode": "WF2 0JS"
+  },
+  {
+    "district": "Wakefield",
+    "group": "39th Wakefield (St. Paul's Alverthorpe)",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 13,
+    "yp-females": 2,
+    "yp-total": 15,
+    "postcode": "WF2 9DJ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "39th Wakefield (St. Paul's Alverthorpe)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 10,
+    "yp-females": 3,
+    "yp-total": 13,
+    "postcode": "WF2 9DJ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "39th Wakefield (St. Paul's Alverthorpe)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 7,
+    "yp-females": 2,
+    "yp-total": 9,
+    "postcode": "WF2 9DJ"
+  },
+  {
+    "district": "Wakefield",
+    "group": "45th Wakefield (Durkar)",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 6,
+    "yp-females": 6,
+    "yp-total": 12,
+    "postcode": "WF4 3ED"
+  },
+  {
+    "district": "Wakefield",
+    "group": "45th Wakefield (Durkar)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 11,
+    "yp-females": 2,
+    "yp-total": 13,
+    "postcode": "WF4 3ED"
+  },
+  {
+    "district": "Wakefield",
+    "group": "45th Wakefield (Durkar)",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 12,
+    "yp-females": 3,
+    "yp-total": 15,
+    "postcode": "WF4 3ED"
+  },
+  {
+    "district": "Wakefield",
+    "group": "50th Wakefield (North Ossett)",
+    "sectionName": "Beavers",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 2,
+    "yp-total": 20,
+    "postcode": "WF5 9DG"
+  },
+  {
+    "district": "Wakefield",
+    "group": "50th Wakefield (North Ossett)",
+    "sectionName": "Cubs",
+    "sectionType": "P",
+    "yp-males": 2,
+    "yp-females": 0,
+    "yp-total": 2,
+    "postcode": "WF5 9DG"
+  },
+  {
+    "district": "West Leeds",
+    "group": "District",
+    "sectionName": "DYB ESU",
+    "sectionType": "U",
+    "yp-males": 12,
+    "yp-females": 10,
+    "yp-total": 22,
+    "postcode": "LS13 2JA"
+  },
+  {
+    "district": "West Leeds",
+    "group": "District",
+    "sectionName": "Rockard ESU",
+    "sectionType": "U",
+    "yp-males": 9,
+    "yp-females": 0,
+    "yp-total": 9,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "District",
+    "sectionName": "SMILE ESU",
+    "sectionType": "U",
+    "yp-males": 5,
+    "yp-females": 6,
+    "yp-total": 11,
+    "postcode": "LS12 5BN"
+  },
+  {
+    "district": "West Leeds",
+    "group": "District",
+    "sectionName": "Young Leaders ESU",
+    "sectionType": "Y",
+    "yp-males": 2,
+    "yp-females": 1,
+    "yp-total": 3,
+    "postcode": "LS28 7AQ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Bramley",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 5,
+    "yp-females": 2,
+    "yp-total": 7,
+    "postcode": "LS13 2BW"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Bramley",
+    "sectionName": "2nd Bramley CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 18,
+    "yp-females": 2,
+    "yp-total": 20,
+    "postcode": "LS13 2BW"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Bramley",
+    "sectionName": "2nd Bramley Scout Section",
+    "sectionType": "T",
+    "yp-males": 6,
+    "yp-females": 0,
+    "yp-total": 6,
+    "postcode": "LS13 2BW"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 9,
+    "yp-females": 3,
+    "yp-total": 12,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "Beavers Scout 2",
+    "sectionType": "C",
+    "yp-males": 7,
+    "yp-females": 5,
+    "yp-total": 12,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "Cub Scout 1 Monday",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 4,
+    "yp-total": 17,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "Cub Scout 2 Tuesday",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 3,
+    "yp-total": 20,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "Late Scout Troop",
+    "sectionType": "T",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "2nd Calverley (Parish Church)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 4,
+    "yp-total": 20,
+    "postcode": "LS28 5NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "Farsley",
+    "sectionName": "LAKELAND BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 23,
+    "yp-females": 7,
+    "yp-total": 30,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "Farsley",
+    "sectionName": "Woodland Beaver Scout Colony",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 2,
+    "yp-total": 19,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "Farsley",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 5,
+    "yp-total": 26,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "Farsley",
+    "sectionName": "Cubs (Monday Pack)",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "Farsley",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 5,
+    "yp-total": 24,
+    "postcode": "LS28 5BB"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Pudsey (Parish Church)",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 15,
+    "yp-females": 2,
+    "yp-total": 17,
+    "postcode": "LS28 8LP"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Pudsey (Parish Church)",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 8,
+    "yp-females": 2,
+    "yp-total": 10,
+    "postcode": "LS28 8LP"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Pudsey (Parish Church)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 2,
+    "yp-females": 0,
+    "yp-total": 2,
+    "postcode": "LS28 8LP"
+  },
+  {
+    "district": "West Leeds",
+    "group": "4th Pudsey (Church Lane Methodist)",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 25,
+    "yp-females": 1,
+    "yp-total": 26,
+    "postcode": "LS28 7BR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "4th Pudsey (Church Lane Methodist)",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 18,
+    "yp-females": 1,
+    "yp-total": 19,
+    "postcode": "LS28 7BR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "4th Pudsey (Church Lane Methodist)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 6,
+    "yp-females": 6,
+    "yp-total": 12,
+    "postcode": "LS28 7BR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "8th South West Leeds St James New Farnley",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 8,
+    "yp-total": 22,
+    "postcode": "LS12 5EA"
+  },
+  {
+    "district": "West Leeds",
+    "group": "8th South West Leeds St James New Farnley",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 10,
+    "yp-total": 30,
+    "postcode": "LS12 5DU"
+  },
+  {
+    "district": "West Leeds",
+    "group": "8th South West Leeds St James New Farnley",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 10,
+    "yp-females": 4,
+    "yp-total": 14,
+    "postcode": "LS12 5DU"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st South West Leeds (St Peters)",
+    "sectionName": "BEAVER COLONY",
+    "sectionType": "C",
+    "yp-males": 11,
+    "yp-females": 6,
+    "yp-total": 17,
+    "postcode": "LS13 3NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st South West Leeds (St Peters)",
+    "sectionName": "CUB PACK",
+    "sectionType": "P",
+    "yp-males": 6,
+    "yp-females": 2,
+    "yp-total": 8,
+    "postcode": "LS13 3NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st South West Leeds (St Peters)",
+    "sectionName": "Scouts",
+    "sectionType": "T",
+    "yp-males": 4,
+    "yp-females": 1,
+    "yp-total": 5,
+    "postcode": "LS13 3NF"
+  },
+  {
+    "district": "West Leeds",
+    "group": "17th South West Leeds (St Bartholomews & St.Mary)",
+    "sectionName": "Beaver Scouts",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 1,
+    "yp-total": 18,
+    "postcode": "LS12 1SR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "17th South West Leeds (St Bartholomews & St.Mary)",
+    "sectionName": "Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 13,
+    "yp-females": 2,
+    "yp-total": 15,
+    "postcode": "LS12 1SR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "17th South West Leeds (St Bartholomews & St.Mary)",
+    "sectionName": "Scouts",
+    "sectionType": "T",
+    "yp-males": 11,
+    "yp-females": 4,
+    "yp-total": 15,
+    "postcode": "LS12 1SR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "24th South West Leeds (Farnley)",
+    "sectionName": "BEAVER COLONY",
+    "sectionType": "C",
+    "yp-males": 4,
+    "yp-females": 2,
+    "yp-total": 6,
+    "postcode": "LS12 5BN"
+  },
+  {
+    "district": "West Leeds",
+    "group": "24th South West Leeds (Farnley)",
+    "sectionName": "CUB PACK",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 5,
+    "yp-total": 21,
+    "postcode": "LS12 5BN"
+  },
+  {
+    "district": "West Leeds",
+    "group": "24th South West Leeds (Farnley)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 5,
+    "yp-females": 3,
+    "yp-total": 8,
+    "postcode": "LS12 5BN"
+  },
+  {
+    "district": "West Leeds",
+    "group": "29th South West Leeds (St Margarets)",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 10,
+    "yp-females": 3,
+    "yp-total": 13,
+    "postcode": "LS13 2AJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "29th South West Leeds (St Margarets)",
+    "sectionName": "CUB PACK",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 2,
+    "yp-total": 17,
+    "postcode": "LS13 2AJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "29th South West Leeds (St Margarets)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 3,
+    "yp-total": 16,
+    "postcode": "LS13 2AJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Stanningley (St Thomas)",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 8,
+    "yp-females": 7,
+    "yp-total": 15,
+    "postcode": "LS28 6NJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Stanningley (St Thomas)",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 8,
+    "yp-females": 8,
+    "yp-total": 16,
+    "postcode": "LS28 6NJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Stanningley (St Thomas)",
+    "sectionName": "SCOUT TROOP",
+    "sectionType": "T",
+    "yp-males": 7,
+    "yp-females": 14,
+    "yp-total": 21,
+    "postcode": "LS28 6NJ"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Woodhall",
+    "sectionName": "BEAVER SCOUT COLONY",
+    "sectionType": "C",
+    "yp-males": 15,
+    "yp-females": 4,
+    "yp-total": 19,
+    "postcode": "LS28 8JR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Woodhall",
+    "sectionName": "CUB SCOUT PACK",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 6,
+    "yp-total": 26,
+    "postcode": "LS28 8JR"
+  },
+  {
+    "district": "West Leeds",
+    "group": "1st Woodhall",
+    "sectionName": "1st Woodhall Scout Troop",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 3,
+    "yp-total": 17,
+    "postcode": "LS28 8JR"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Elmets ESU",
+    "sectionType": "U",
+    "yp-males": 10,
+    "yp-females": 7,
+    "yp-total": 17,
+    "postcode": "LS15 4AJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Explorers 1 Boston Bangers ESU",
+    "sectionType": "U",
+    "yp-males": 6,
+    "yp-females": 8,
+    "yp-total": 14,
+    "postcode": "LS23 6DN"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Explorers 6 Tadcaster ESU",
+    "sectionType": "U",
+    "yp-males": 21,
+    "yp-females": 11,
+    "yp-total": 32,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Explorers 7 Whalers ESU",
+    "sectionType": "U",
+    "yp-males": 25,
+    "yp-females": 3,
+    "yp-total": 28,
+    "postcode": "LS22 5BL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Hydra ESU",
+    "sectionType": "U",
+    "yp-males": 11,
+    "yp-females": 2,
+    "yp-total": 13,
+    "postcode": "LS25 6BH"
+  },
+  {
+    "district": "Wetherby",
+    "group": "District",
+    "sectionName": "Explorers 8 Young Leaders ESU",
+    "sectionType": "Y",
+    "yp-males": 14,
+    "yp-females": 5,
+    "yp-total": 19,
+    "postcode": "LS22 5BL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Beaver Scout 1 Normans",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 4,
+    "yp-total": 21,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Beaver Scout 2 Angles",
+    "sectionType": "C",
+    "yp-males": 19,
+    "yp-females": 1,
+    "yp-total": 20,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Sherburn Brythons Cub Scouts",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 6,
+    "yp-total": 22,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Vikings Cub Pack",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 2,
+    "yp-total": 23,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Dragons Scout Group",
+    "sectionType": "T",
+    "yp-males": 13,
+    "yp-females": 6,
+    "yp-total": 19,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "All Saints 1st Sherburn in Elmet",
+    "sectionName": "Phoenix Scouts",
+    "sectionType": "T",
+    "yp-males": 16,
+    "yp-females": 13,
+    "yp-total": 29,
+    "postcode": "LS25 6AX"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Bardsey",
+    "sectionName": "Beaver 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 0,
+    "yp-total": 16,
+    "postcode": "LS17 9AR"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Bardsey",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 1,
+    "yp-total": 18,
+    "postcode": "LS17 9AR"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Bardsey",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 20,
+    "yp-females": 3,
+    "yp-total": 23,
+    "postcode": "LS17 9AR"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Barwick in Elmet",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 13,
+    "yp-females": 1,
+    "yp-total": 14,
+    "postcode": "LS15 4EL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Barwick in Elmet",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 17,
+    "yp-females": 7,
+    "yp-total": 24,
+    "postcode": "LS15 4EL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Barwick in Elmet",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 6,
+    "yp-females": 7,
+    "yp-total": 13,
+    "postcode": "LS25 3DA"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Beaver-Indians Mon",
+    "sectionType": "C",
+    "yp-males": 17,
+    "yp-females": 4,
+    "yp-total": 21,
+    "postcode": "LS23 6DR"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Beaver-Pirates Tues",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 1,
+    "yp-total": 21,
+    "postcode": "LS23 6SJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Cub-Bears Thurs",
+    "sectionType": "P",
+    "yp-males": 15,
+    "yp-females": 2,
+    "yp-total": 17,
+    "postcode": "LS23 6SJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Cub-Wolves Wed",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 2,
+    "yp-total": 25,
+    "postcode": "LS23 6SJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Scout-Romans Tues",
+    "sectionType": "T",
+    "yp-males": 15,
+    "yp-females": 0,
+    "yp-total": 15,
+    "postcode": "LS23 6SJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Boston Spa",
+    "sectionName": "Scouts-Vikings Wed",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 2,
+    "yp-total": 21,
+    "postcode": "LS23 6SJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Church Fenton",
+    "sectionName": "Beavers 1",
+    "sectionType": "C",
+    "yp-males": 11,
+    "yp-females": 3,
+    "yp-total": 14,
+    "postcode": "LS24 9RF"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Church Fenton",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 9,
+    "yp-females": 3,
+    "yp-total": 12,
+    "postcode": "LS24 9RF"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Church Fenton",
+    "sectionName": "Scouts 1",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 6,
+    "yp-total": 20,
+    "postcode": "LS24 9RF"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Clifford",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 4,
+    "yp-total": 20,
+    "postcode": "LS23  6JQ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Clifford",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 16,
+    "yp-females": 1,
+    "yp-total": 17,
+    "postcode": "LS23  6JQ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Clifford",
+    "sectionName": "Scouts 2 Tuesday",
+    "sectionType": "T",
+    "yp-males": 17,
+    "yp-females": 5,
+    "yp-total": 22,
+    "postcode": "LS23  6JQ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Collingham",
+    "sectionName": "1st Collingham Beavers",
+    "sectionType": "C",
+    "yp-males": 14,
+    "yp-females": 0,
+    "yp-total": 14,
+    "postcode": "LS22 5BL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Collingham",
+    "sectionName": "1st Collingham Cubs",
+    "sectionType": "P",
+    "yp-males": 20,
+    "yp-females": 1,
+    "yp-total": 21,
+    "postcode": "LS22 5BL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Collingham",
+    "sectionName": "1st Collingham Scouts",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 8,
+    "yp-total": 22,
+    "postcode": "LS22 5BL"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Scholes",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 1,
+    "yp-total": 13,
+    "postcode": "LS15 4AJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Scholes",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 14,
+    "yp-females": 15,
+    "yp-total": 29,
+    "postcode": "LS15 4AJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Scholes",
+    "sectionName": "1St Scholes Scouts",
+    "sectionType": "T",
+    "yp-males": 7,
+    "yp-females": 11,
+    "yp-total": 18,
+    "postcode": "LS15 4AJ"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Shadwell",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS17 8HH"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Shadwell",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 1,
+    "yp-total": 20,
+    "postcode": "LS17 8HH"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Shadwell",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 19,
+    "yp-females": 1,
+    "yp-total": 20,
+    "postcode": "LS17 8HH"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st South Milford Scout Group",
+    "sectionName": "1st South Milford Cubs",
+    "sectionType": "P",
+    "yp-males": 9,
+    "yp-females": 0,
+    "yp-total": 9,
+    "postcode": "LS25 5AU"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Beaver Scout 1 Thursday",
+    "sectionType": "C",
+    "yp-males": 12,
+    "yp-females": 8,
+    "yp-total": 20,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Beaver Scout 2 Friday",
+    "sectionType": "C",
+    "yp-males": 15,
+    "yp-females": 5,
+    "yp-total": 20,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Cub Scout 1 Wednesday",
+    "sectionType": "P",
+    "yp-males": 24,
+    "yp-females": 8,
+    "yp-total": 32,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Cub Scout 2 Tuesday",
+    "sectionType": "P",
+    "yp-males": 23,
+    "yp-females": 3,
+    "yp-total": 26,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Scout 1 Monday",
+    "sectionType": "T",
+    "yp-males": 18,
+    "yp-females": 8,
+    "yp-total": 26,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Tadcaster",
+    "sectionName": "Scouts 2 Friday",
+    "sectionType": "T",
+    "yp-males": 21,
+    "yp-females": 13,
+    "yp-total": 34,
+    "postcode": "LS24 9HY"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Thorner & Scarcroft Scout Group",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 18,
+    "yp-females": 0,
+    "yp-total": 18,
+    "postcode": "LS14 3ED"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Thorner & Scarcroft Scout Group",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 19,
+    "yp-females": 7,
+    "yp-total": 26,
+    "postcode": "LS14 3JD"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Thorner & Scarcroft Scout Group",
+    "sectionName": "Scout 1",
+    "sectionType": "T",
+    "yp-males": 17,
+    "yp-females": 8,
+    "yp-total": 25,
+    "postcode": "LS14 3ED"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Wetherby",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 20,
+    "yp-females": 0,
+    "yp-total": 20,
+    "postcode": "LS22 6PN"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Wetherby",
+    "sectionName": "1st Wetherby Lions Cubs",
+    "sectionType": "P",
+    "yp-males": 21,
+    "yp-females": 1,
+    "yp-total": 22,
+    "postcode": "LS22 6PN"
+  },
+  {
+    "district": "Wetherby",
+    "group": "1st Wetherby",
+    "sectionName": "Scout 1 (Templar De Ros)",
+    "sectionType": "T",
+    "yp-males": 7,
+    "yp-females": 4,
+    "yp-total": 11,
+    "postcode": "LS22 6PN"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Wetherby (St James)",
+    "sectionName": "Beaver Scout 1",
+    "sectionType": "C",
+    "yp-males": 16,
+    "yp-females": 0,
+    "yp-total": 16,
+    "postcode": "LS22 6LP"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Wetherby (St James)",
+    "sectionName": "Cub Scout 1",
+    "sectionType": "P",
+    "yp-males": 26,
+    "yp-females": 0,
+    "yp-total": 26,
+    "postcode": "LS22 6LP"
+  },
+  {
+    "district": "Wetherby",
+    "group": "Wetherby (St James)",
+    "sectionName": "Scout 1 Jaguar",
+    "sectionType": "T",
+    "yp-males": 14,
+    "yp-females": 1,
+    "yp-total": 15,
+    "postcode": "LS22 6LP"
+  }
+]
