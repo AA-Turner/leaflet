@@ -1,6 +1,6 @@
 const initLat = 53.768196;
 const initLan = -1.41037;
-const initZoom = 11;
+const initZoom = 10;
 const lsoaJsonFile = 'LSOA-CYS.json';
 const imdJsonFile = 'IMDcys.json';
 const combinedJsonFile = 'lsoa-with-imd.json';
