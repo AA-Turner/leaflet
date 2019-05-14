@@ -1,0 +1,5650 @@
+[
+  {
+    "lsoaCode": "E01010773",
+    "lsoaName": "Bradford 005C",
+    "laCode": "E08000032",
+    "laName": "Bradford",
+    "imdRank": "28,465",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027696",
+    "lsoaName": "Harrogate 016D",
+    "laCode": "E07000165",
+    "laName": "Harrogate",
+    "imdRank": "22,236",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011698",
+    "lsoaName": "Leeds 001A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,515",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011699",
+    "lsoaName": "Leeds 001B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,392",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011701",
+    "lsoaName": "Leeds 001C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,293",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011702",
+    "lsoaName": "Leeds 001D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,482",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011703",
+    "lsoaName": "Leeds 001E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,622",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011697",
+    "lsoaName": "Leeds 002A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,652",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011700",
+    "lsoaName": "Leeds 002B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,310",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011704",
+    "lsoaName": "Leeds 002C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,591",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011705",
+    "lsoaName": "Leeds 002D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,108",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011581",
+    "lsoaName": "Leeds 003A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,413",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011582",
+    "lsoaName": "Leeds 003B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,481",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011583",
+    "lsoaName": "Leeds 003C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,750",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011584",
+    "lsoaName": "Leeds 003D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,550",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011569",
+    "lsoaName": "Leeds 004A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,543",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011571",
+    "lsoaName": "Leeds 004B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,754",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011572",
+    "lsoaName": "Leeds 004C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,644",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011573",
+    "lsoaName": "Leeds 004D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,294",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011574",
+    "lsoaName": "Leeds 004E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,323",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011707",
+    "lsoaName": "Leeds 005A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,507",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011709",
+    "lsoaName": "Leeds 005B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,131",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011710",
+    "lsoaName": "Leeds 005C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,020",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011711",
+    "lsoaName": "Leeds 005D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,069",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011712",
+    "lsoaName": "Leeds 005E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,877",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011561",
+    "lsoaName": "Leeds 006A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,064",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011696",
+    "lsoaName": "Leeds 006B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,644",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011706",
+    "lsoaName": "Leeds 006C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,639",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011708",
+    "lsoaName": "Leeds 006D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,245",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011713",
+    "lsoaName": "Leeds 006E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,676",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011570",
+    "lsoaName": "Leeds 007A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,550",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011576",
+    "lsoaName": "Leeds 007C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,045",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01032503",
+    "lsoaName": "Leeds 007E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,713",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032504",
+    "lsoaName": "Leeds 007F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,992",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011266",
+    "lsoaName": "Leeds 008A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,793",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011270",
+    "lsoaName": "Leeds 008B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,269",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011279",
+    "lsoaName": "Leeds 008C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,945",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011280",
+    "lsoaName": "Leeds 008D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,220",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011265",
+    "lsoaName": "Leeds 009A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,149",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011267",
+    "lsoaName": "Leeds 009B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,622",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011271",
+    "lsoaName": "Leeds 009C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,332",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011272",
+    "lsoaName": "Leeds 009D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,310",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011268",
+    "lsoaName": "Leeds 010A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,862",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011273",
+    "lsoaName": "Leeds 010B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,740",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011274",
+    "lsoaName": "Leeds 010C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,330",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011275",
+    "lsoaName": "Leeds 010D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,302",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011264",
+    "lsoaName": "Leeds 011A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,951",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011269",
+    "lsoaName": "Leeds 011B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,025",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011276",
+    "lsoaName": "Leeds 011C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,451",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011578",
+    "lsoaName": "Leeds 011D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,017",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011554",
+    "lsoaName": "Leeds 012A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,646",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011562",
+    "lsoaName": "Leeds 012B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,694",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011563",
+    "lsoaName": "Leeds 012C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,392",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011564",
+    "lsoaName": "Leeds 012D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,024",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011567",
+    "lsoaName": "Leeds 012E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,670",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011376",
+    "lsoaName": "Leeds 013A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,477",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011377",
+    "lsoaName": "Leeds 013B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,108",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011378",
+    "lsoaName": "Leeds 013C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,551",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011382",
+    "lsoaName": "Leeds 013D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,971",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011277",
+    "lsoaName": "Leeds 014A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,459",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011278",
+    "lsoaName": "Leeds 014B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,956",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011579",
+    "lsoaName": "Leeds 014C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,377",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011580",
+    "lsoaName": "Leeds 014D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,207",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011556",
+    "lsoaName": "Leeds 015A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,723",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011557",
+    "lsoaName": "Leeds 015B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,996",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011565",
+    "lsoaName": "Leeds 015C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,217",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011566",
+    "lsoaName": "Leeds 015D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,525",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011568",
+    "lsoaName": "Leeds 015E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,814",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011380",
+    "lsoaName": "Leeds 016A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,626",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011381",
+    "lsoaName": "Leeds 016B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,091",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011385",
+    "lsoaName": "Leeds 016C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,619",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011386",
+    "lsoaName": "Leeds 016D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,935",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011379",
+    "lsoaName": "Leeds 017A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,624",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011384",
+    "lsoaName": "Leeds 017B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,227",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01032501",
+    "lsoaName": "Leeds 017E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,059",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032502",
+    "lsoaName": "Leeds 017F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,655",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011555",
+    "lsoaName": "Leeds 018A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,216",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011558",
+    "lsoaName": "Leeds 018B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,374",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011559",
+    "lsoaName": "Leeds 018C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,272",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011560",
+    "lsoaName": "Leeds 018D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,142",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011383",
+    "lsoaName": "Leeds 019A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,210",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011388",
+    "lsoaName": "Leeds 019B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,196",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011684",
+    "lsoaName": "Leeds 019C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,298",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011695",
+    "lsoaName": "Leeds 019D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,152",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011650",
+    "lsoaName": "Leeds 020A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,306",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011651",
+    "lsoaName": "Leeds 020B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,286",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011653",
+    "lsoaName": "Leeds 020C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,584",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011655",
+    "lsoaName": "Leeds 020D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,464",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011455",
+    "lsoaName": "Leeds 021A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,285",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011456",
+    "lsoaName": "Leeds 021B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,538",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011459",
+    "lsoaName": "Leeds 021C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,859",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011461",
+    "lsoaName": "Leeds 021D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,074",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011311",
+    "lsoaName": "Leeds 022A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,925",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011649",
+    "lsoaName": "Leeds 022B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "32,653",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011715",
+    "lsoaName": "Leeds 022C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,899",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011719",
+    "lsoaName": "Leeds 022D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,804",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011509",
+    "lsoaName": "Leeds 023A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,071",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011511",
+    "lsoaName": "Leeds 023B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,245",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011512",
+    "lsoaName": "Leeds 023C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,318",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011515",
+    "lsoaName": "Leeds 023D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,938",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011516",
+    "lsoaName": "Leeds 023E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,886",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011508",
+    "lsoaName": "Leeds 024A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,110",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011517",
+    "lsoaName": "Leeds 024B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,556",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011652",
+    "lsoaName": "Leeds 024C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,110",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011654",
+    "lsoaName": "Leeds 024D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,388",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011505",
+    "lsoaName": "Leeds 025A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,059",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011506",
+    "lsoaName": "Leeds 025B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,827",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011507",
+    "lsoaName": "Leeds 025C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,239",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011510",
+    "lsoaName": "Leeds 025D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,157",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011514",
+    "lsoaName": "Leeds 025E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,556",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011452",
+    "lsoaName": "Leeds 027A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,869",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011454",
+    "lsoaName": "Leeds 027B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,557",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011457",
+    "lsoaName": "Leeds 027C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,336",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011458",
+    "lsoaName": "Leeds 027D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,654",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011465",
+    "lsoaName": "Leeds 027E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,277",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011453",
+    "lsoaName": "Leeds 028A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,197",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011460",
+    "lsoaName": "Leeds 028B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,272",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011462",
+    "lsoaName": "Leeds 028C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,169",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011463",
+    "lsoaName": "Leeds 028D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,402",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011464",
+    "lsoaName": "Leeds 028E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,736",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011714",
+    "lsoaName": "Leeds 029A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,113",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011716",
+    "lsoaName": "Leeds 029B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,250",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011717",
+    "lsoaName": "Leeds 029C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,413",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011718",
+    "lsoaName": "Leeds 029D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,172",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011720",
+    "lsoaName": "Leeds 029E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,790",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011296",
+    "lsoaName": "Leeds 030A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,062",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011297",
+    "lsoaName": "Leeds 030B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,031",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011309",
+    "lsoaName": "Leeds 030C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,051",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011310",
+    "lsoaName": "Leeds 030D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,306",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011513",
+    "lsoaName": "Leeds 031A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,706",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011688",
+    "lsoaName": "Leeds 031B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,941",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011689",
+    "lsoaName": "Leeds 031C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,885",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011691",
+    "lsoaName": "Leeds 031D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,120",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011504",
+    "lsoaName": "Leeds 032A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,390",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011641",
+    "lsoaName": "Leeds 032B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,376",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011642",
+    "lsoaName": "Leeds 032C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,319",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011645",
+    "lsoaName": "Leeds 032D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,621",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011484",
+    "lsoaName": "Leeds 033A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,495",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011485",
+    "lsoaName": "Leeds 033B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,944",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011686",
+    "lsoaName": "Leeds 033E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,476",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032493",
+    "lsoaName": "Leeds 033F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,637",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032494",
+    "lsoaName": "Leeds 033G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,357",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011350",
+    "lsoaName": "Leeds 034A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,753",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011351",
+    "lsoaName": "Leeds 034B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,808",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011352",
+    "lsoaName": "Leeds 034C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,332",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011353",
+    "lsoaName": "Leeds 034D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,754",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011656",
+    "lsoaName": "Leeds 035A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,531",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011657",
+    "lsoaName": "Leeds 035B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,072",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011659",
+    "lsoaName": "Leeds 035C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,162",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011661",
+    "lsoaName": "Leeds 035D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 663,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011643",
+    "lsoaName": "Leeds 037A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,830",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011644",
+    "lsoaName": "Leeds 037B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,687",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011646",
+    "lsoaName": "Leeds 037C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,244",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011647",
+    "lsoaName": "Leeds 037D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,667",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011648",
+    "lsoaName": "Leeds 037E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,262",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011354",
+    "lsoaName": "Leeds 038A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,785",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011355",
+    "lsoaName": "Leeds 038B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,267",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011357",
+    "lsoaName": "Leeds 038C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 961,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011450",
+    "lsoaName": "Leeds 038D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,856",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011588",
+    "lsoaName": "Leeds 039A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,188",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011589",
+    "lsoaName": "Leeds 039B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,705",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011590",
+    "lsoaName": "Leeds 039C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,701",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011592",
+    "lsoaName": "Leeds 039D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,180",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011593",
+    "lsoaName": "Leeds 039E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,707",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011421",
+    "lsoaName": "Leeds 040A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,954",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011425",
+    "lsoaName": "Leeds 040B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,531",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011658",
+    "lsoaName": "Leeds 040C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 167,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011660",
+    "lsoaName": "Leeds 040D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,477",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011662",
+    "lsoaName": "Leeds 040E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 123,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011721",
+    "lsoaName": "Leeds 041A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,464",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011722",
+    "lsoaName": "Leeds 041B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,227",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011723",
+    "lsoaName": "Leeds 041C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,539",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011724",
+    "lsoaName": "Leeds 041D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,333",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011356",
+    "lsoaName": "Leeds 042A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,683",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011358",
+    "lsoaName": "Leeds 042B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,982",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011359",
+    "lsoaName": "Leeds 042C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,659",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011360",
+    "lsoaName": "Leeds 042D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,094",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011361",
+    "lsoaName": "Leeds 042E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 778,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011435",
+    "lsoaName": "Leeds 044A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,792",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011440",
+    "lsoaName": "Leeds 044D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,456",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011441",
+    "lsoaName": "Leeds 044E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,048",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01032945",
+    "lsoaName": "Leeds 044F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,019",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011477",
+    "lsoaName": "Leeds 045A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,608",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011480",
+    "lsoaName": "Leeds 045B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,745",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011488",
+    "lsoaName": "Leeds 045C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,025",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011489",
+    "lsoaName": "Leeds 045D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,212",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011324",
+    "lsoaName": "Leeds 046A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,342",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011325",
+    "lsoaName": "Leeds 046B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,103",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011326",
+    "lsoaName": "Leeds 046C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,588",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011332",
+    "lsoaName": "Leeds 046D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,251",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011423",
+    "lsoaName": "Leeds 047A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,059",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011424",
+    "lsoaName": "Leeds 047B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,151",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011427",
+    "lsoaName": "Leeds 047C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 348,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011431",
+    "lsoaName": "Leeds 047D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 803,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011422",
+    "lsoaName": "Leeds 048A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,149",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011426",
+    "lsoaName": "Leeds 048B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,829",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011428",
+    "lsoaName": "Leeds 048C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,602",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011429",
+    "lsoaName": "Leeds 048D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 554,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011663",
+    "lsoaName": "Leeds 050A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 567,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011664",
+    "lsoaName": "Leeds 050B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,446",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011665",
+    "lsoaName": "Leeds 050C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,423",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011667",
+    "lsoaName": "Leeds 050D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 113,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011323",
+    "lsoaName": "Leeds 051A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,125",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011329",
+    "lsoaName": "Leeds 051B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,843",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011330",
+    "lsoaName": "Leeds 051C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,723",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011333",
+    "lsoaName": "Leeds 051D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,791",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011327",
+    "lsoaName": "Leeds 052A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,114",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011328",
+    "lsoaName": "Leeds 052B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,827",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011335",
+    "lsoaName": "Leeds 052C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,500",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011591",
+    "lsoaName": "Leeds 052D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,371",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011430",
+    "lsoaName": "Leeds 053A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,285",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011432",
+    "lsoaName": "Leeds 053B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 457,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011433",
+    "lsoaName": "Leeds 053C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 310,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011434",
+    "lsoaName": "Leeds 053D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 445,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011445",
+    "lsoaName": "Leeds 054A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,044",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011446",
+    "lsoaName": "Leeds 054B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,836",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011447",
+    "lsoaName": "Leeds 054C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,031",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011448",
+    "lsoaName": "Leeds 054D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,376",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011449",
+    "lsoaName": "Leeds 054E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,356",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011670",
+    "lsoaName": "Leeds 055A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,763",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011671",
+    "lsoaName": "Leeds 055B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,299",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033002",
+    "lsoaName": "Leeds 055F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,371",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01033003",
+    "lsoaName": "Leeds 055G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,086",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033005",
+    "lsoaName": "Leeds 055H",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,229",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011478",
+    "lsoaName": "Leeds 056A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,648",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011479",
+    "lsoaName": "Leeds 056B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,734",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011481",
+    "lsoaName": "Leeds 056C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,478",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011482",
+    "lsoaName": "Leeds 056D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,787",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011483",
+    "lsoaName": "Leeds 056E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,816",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011406",
+    "lsoaName": "Leeds 057A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,582",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011407",
+    "lsoaName": "Leeds 057B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,389",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011408",
+    "lsoaName": "Leeds 057C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,918",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011409",
+    "lsoaName": "Leeds 057D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,279",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011410",
+    "lsoaName": "Leeds 057E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,819",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011412",
+    "lsoaName": "Leeds 057F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,884",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011331",
+    "lsoaName": "Leeds 058A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,970",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011334",
+    "lsoaName": "Leeds 058B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,921",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011336",
+    "lsoaName": "Leeds 058C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,476",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011337",
+    "lsoaName": "Leeds 058D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 642,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011281",
+    "lsoaName": "Leeds 059A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,014",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011282",
+    "lsoaName": "Leeds 059B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,215",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011283",
+    "lsoaName": "Leeds 059C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 699,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011286",
+    "lsoaName": "Leeds 059D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,120",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011295",
+    "lsoaName": "Leeds 059E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,838",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011339",
+    "lsoaName": "Leeds 060A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,967",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011340",
+    "lsoaName": "Leeds 060B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,679",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011342",
+    "lsoaName": "Leeds 060C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 694,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011346",
+    "lsoaName": "Leeds 060D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,393",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011341",
+    "lsoaName": "Leeds 061A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,882",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011343",
+    "lsoaName": "Leeds 061B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,093",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011345",
+    "lsoaName": "Leeds 061C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,045",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011666",
+    "lsoaName": "Leeds 061D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,404",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011585",
+    "lsoaName": "Leeds 062A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,071",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011587",
+    "lsoaName": "Leeds 062B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,654",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011594",
+    "lsoaName": "Leeds 062C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,803",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011596",
+    "lsoaName": "Leeds 062D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,806",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011598",
+    "lsoaName": "Leeds 062E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,387",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011678",
+    "lsoaName": "Leeds 063B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,833",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011681",
+    "lsoaName": "Leeds 063D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,569",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01033006",
+    "lsoaName": "Leeds 063E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,030",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011338",
+    "lsoaName": "Leeds 064A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 777,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011673",
+    "lsoaName": "Leeds 064B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 886,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011677",
+    "lsoaName": "Leeds 064D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 918,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033031",
+    "lsoaName": "Leeds 064E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,895",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01033035",
+    "lsoaName": "Leeds 064F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 66,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011344",
+    "lsoaName": "Leeds 065A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 325,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011347",
+    "lsoaName": "Leeds 065B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 126,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011348",
+    "lsoaName": "Leeds 065C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 888,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011349",
+    "lsoaName": "Leeds 065D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,416",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011586",
+    "lsoaName": "Leeds 066A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,458",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011595",
+    "lsoaName": "Leeds 066B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,613",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011597",
+    "lsoaName": "Leeds 066C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,679",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011599",
+    "lsoaName": "Leeds 066D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,342",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011287",
+    "lsoaName": "Leeds 067B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,680",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01032499",
+    "lsoaName": "Leeds 067G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,192",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01032500",
+    "lsoaName": "Leeds 067H",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,505",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032606",
+    "lsoaName": "Leeds 067I",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,404",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01032607",
+    "lsoaName": "Leeds 067J",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,765",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032608",
+    "lsoaName": "Leeds 067K",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,347",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011608",
+    "lsoaName": "Leeds 068A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,658",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011609",
+    "lsoaName": "Leeds 068B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,813",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011610",
+    "lsoaName": "Leeds 068C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,674",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011611",
+    "lsoaName": "Leeds 068D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,286",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011614",
+    "lsoaName": "Leeds 068E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,210",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011413",
+    "lsoaName": "Leeds 069A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,912",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011415",
+    "lsoaName": "Leeds 069B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,573",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011416",
+    "lsoaName": "Leeds 069C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,733",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011417",
+    "lsoaName": "Leeds 069D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,877",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011420",
+    "lsoaName": "Leeds 069E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,783",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011615",
+    "lsoaName": "Leeds 070A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,074",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011617",
+    "lsoaName": "Leeds 070B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,799",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011618",
+    "lsoaName": "Leeds 070C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,314",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011621",
+    "lsoaName": "Leeds 070D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,199",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011284",
+    "lsoaName": "Leeds 071A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,328",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011292",
+    "lsoaName": "Leeds 071B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 770,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011293",
+    "lsoaName": "Leeds 071C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,142",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011294",
+    "lsoaName": "Leeds 071D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 261,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011363",
+    "lsoaName": "Leeds 071E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 229,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011616",
+    "lsoaName": "Leeds 072A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,263",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011620",
+    "lsoaName": "Leeds 072B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,341",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011622",
+    "lsoaName": "Leeds 072C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 478,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011624",
+    "lsoaName": "Leeds 072D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 328,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011411",
+    "lsoaName": "Leeds 073A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,764",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011414",
+    "lsoaName": "Leeds 073B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,312",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011418",
+    "lsoaName": "Leeds 073C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,537",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011419",
+    "lsoaName": "Leeds 073D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,139",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011396",
+    "lsoaName": "Leeds 074A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,326",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011399",
+    "lsoaName": "Leeds 074B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,328",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011400",
+    "lsoaName": "Leeds 074C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,906",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011403",
+    "lsoaName": "Leeds 074D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,443",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011623",
+    "lsoaName": "Leeds 075B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,031",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011625",
+    "lsoaName": "Leeds 075C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 855,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011626",
+    "lsoaName": "Leeds 075D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 938,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033021",
+    "lsoaName": "Leeds 075E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,692",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033033",
+    "lsoaName": "Leeds 075F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,400",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01033034",
+    "lsoaName": "Leeds 075G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,787",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011602",
+    "lsoaName": "Leeds 076A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,757",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011603",
+    "lsoaName": "Leeds 076B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,113",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011605",
+    "lsoaName": "Leeds 076C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,641",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011606",
+    "lsoaName": "Leeds 076D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,174",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011613",
+    "lsoaName": "Leeds 076E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,508",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011397",
+    "lsoaName": "Leeds 077A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,550",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011398",
+    "lsoaName": "Leeds 077B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,291",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011401",
+    "lsoaName": "Leeds 077C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,467",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011404",
+    "lsoaName": "Leeds 077D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,253",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011405",
+    "lsoaName": "Leeds 077E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,157",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011725",
+    "lsoaName": "Leeds 078A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 867,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011729",
+    "lsoaName": "Leeds 078B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,988",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011730",
+    "lsoaName": "Leeds 078C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,644",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011735",
+    "lsoaName": "Leeds 078D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,151",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011600",
+    "lsoaName": "Leeds 079A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,237",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011601",
+    "lsoaName": "Leeds 079B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,801",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011604",
+    "lsoaName": "Leeds 079C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,681",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011607",
+    "lsoaName": "Leeds 079D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,526",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011612",
+    "lsoaName": "Leeds 079E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,382",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011726",
+    "lsoaName": "Leeds 080A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,092",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011727",
+    "lsoaName": "Leeds 080B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,732",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011728",
+    "lsoaName": "Leeds 080C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,682",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011739",
+    "lsoaName": "Leeds 080D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,399",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011362",
+    "lsoaName": "Leeds 081A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,795",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011731",
+    "lsoaName": "Leeds 081B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,038",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011732",
+    "lsoaName": "Leeds 081C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,412",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011733",
+    "lsoaName": "Leeds 081D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,595",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011366",
+    "lsoaName": "Leeds 082A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 898,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011368",
+    "lsoaName": "Leeds 082C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 37,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011370",
+    "lsoaName": "Leeds 082D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,605",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01033013",
+    "lsoaName": "Leeds 082E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,174",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01033032",
+    "lsoaName": "Leeds 082F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,129",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011734",
+    "lsoaName": "Leeds 083A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,376",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011736",
+    "lsoaName": "Leeds 083B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,603",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011737",
+    "lsoaName": "Leeds 083C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,995",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011738",
+    "lsoaName": "Leeds 083D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,072",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011364",
+    "lsoaName": "Leeds 085A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,719",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011371",
+    "lsoaName": "Leeds 085B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 274,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011373",
+    "lsoaName": "Leeds 085C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 875,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011374",
+    "lsoaName": "Leeds 085D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,384",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011312",
+    "lsoaName": "Leeds 086A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 236,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011316",
+    "lsoaName": "Leeds 086B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 628,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011372",
+    "lsoaName": "Leeds 086C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 22,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011375",
+    "lsoaName": "Leeds 086D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 215,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011390",
+    "lsoaName": "Leeds 087A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,275",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011391",
+    "lsoaName": "Leeds 087B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,388",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011392",
+    "lsoaName": "Leeds 087C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,260",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011402",
+    "lsoaName": "Leeds 087D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,414",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011298",
+    "lsoaName": "Leeds 088A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,977",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011299",
+    "lsoaName": "Leeds 088B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,596",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011302",
+    "lsoaName": "Leeds 088C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,200",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011303",
+    "lsoaName": "Leeds 088D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,559",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011300",
+    "lsoaName": "Leeds 089A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,397",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011301",
+    "lsoaName": "Leeds 089B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,664",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011304",
+    "lsoaName": "Leeds 089C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,805",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011305",
+    "lsoaName": "Leeds 089D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,479",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011306",
+    "lsoaName": "Leeds 089E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,482",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011315",
+    "lsoaName": "Leeds 090A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,607",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011317",
+    "lsoaName": "Leeds 090B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,802",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011318",
+    "lsoaName": "Leeds 090C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,299",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011321",
+    "lsoaName": "Leeds 090D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,208",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011369",
+    "lsoaName": "Leeds 090E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,630",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011313",
+    "lsoaName": "Leeds 091A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,341",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011314",
+    "lsoaName": "Leeds 091B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,913",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011319",
+    "lsoaName": "Leeds 091C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,008",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011320",
+    "lsoaName": "Leeds 091D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,833",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011322",
+    "lsoaName": "Leeds 091E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,055",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011471",
+    "lsoaName": "Leeds 092A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,182",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011472",
+    "lsoaName": "Leeds 092B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 782,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011473",
+    "lsoaName": "Leeds 092C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 259,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011474",
+    "lsoaName": "Leeds 092D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 837,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011518",
+    "lsoaName": "Leeds 093A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,520",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011524",
+    "lsoaName": "Leeds 093B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,489",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011526",
+    "lsoaName": "Leeds 093C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "30,258",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011531",
+    "lsoaName": "Leeds 093D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,322",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011466",
+    "lsoaName": "Leeds 094A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,091",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011469",
+    "lsoaName": "Leeds 094B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,974",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011475",
+    "lsoaName": "Leeds 094C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,764",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011476",
+    "lsoaName": "Leeds 094D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,044",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011519",
+    "lsoaName": "Leeds 095A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,790",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011522",
+    "lsoaName": "Leeds 095B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,148",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011525",
+    "lsoaName": "Leeds 095C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,825",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011528",
+    "lsoaName": "Leeds 095D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "28,141",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011532",
+    "lsoaName": "Leeds 095E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,077",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011520",
+    "lsoaName": "Leeds 096A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,224",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011521",
+    "lsoaName": "Leeds 096B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,936",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011523",
+    "lsoaName": "Leeds 096C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,900",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011527",
+    "lsoaName": "Leeds 096D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,738",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011529",
+    "lsoaName": "Leeds 096E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,387",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011635",
+    "lsoaName": "Leeds 097B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,503",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011637",
+    "lsoaName": "Leeds 097C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,860",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011638",
+    "lsoaName": "Leeds 097D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,421",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032487",
+    "lsoaName": "Leeds 097F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,582",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032488",
+    "lsoaName": "Leeds 097G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,393",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011627",
+    "lsoaName": "Leeds 098A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,689",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011628",
+    "lsoaName": "Leeds 098B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,489",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011629",
+    "lsoaName": "Leeds 098C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,743",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011632",
+    "lsoaName": "Leeds 098D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,758",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011633",
+    "lsoaName": "Leeds 098E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,041",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011490",
+    "lsoaName": "Leeds 099A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,123",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011502",
+    "lsoaName": "Leeds 099C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,296",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032497",
+    "lsoaName": "Leeds 099E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,717",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01032498",
+    "lsoaName": "Leeds 099F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,864",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011496",
+    "lsoaName": "Leeds 100A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,792",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011630",
+    "lsoaName": "Leeds 100B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "25,639",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011634",
+    "lsoaName": "Leeds 100C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,973",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011636",
+    "lsoaName": "Leeds 100D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,588",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011639",
+    "lsoaName": "Leeds 100E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,378",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011491",
+    "lsoaName": "Leeds 101A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,289",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011492",
+    "lsoaName": "Leeds 101B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 341,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011493",
+    "lsoaName": "Leeds 101C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 947,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011494",
+    "lsoaName": "Leeds 101D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,649",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011497",
+    "lsoaName": "Leeds 101E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "1,708",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011540",
+    "lsoaName": "Leeds 102B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "4,437",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01032489",
+    "lsoaName": "Leeds 102F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,065",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01032490",
+    "lsoaName": "Leeds 102G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,842",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01032491",
+    "lsoaName": "Leeds 102H",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "24,822",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032492",
+    "lsoaName": "Leeds 102I",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "3,845",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011307",
+    "lsoaName": "Leeds 103A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,391",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011308",
+    "lsoaName": "Leeds 103B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,838",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011393",
+    "lsoaName": "Leeds 103C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,787",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011394",
+    "lsoaName": "Leeds 103D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,983",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011395",
+    "lsoaName": "Leeds 103E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,872",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011533",
+    "lsoaName": "Leeds 104A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "7,034",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011541",
+    "lsoaName": "Leeds 104B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,973",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011545",
+    "lsoaName": "Leeds 104C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "11,156",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011547",
+    "lsoaName": "Leeds 104D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,847",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011499",
+    "lsoaName": "Leeds 105C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,497",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011500",
+    "lsoaName": "Leeds 105D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,716",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01032495",
+    "lsoaName": "Leeds 105E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,153",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01032496",
+    "lsoaName": "Leeds 105F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,649",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011530",
+    "lsoaName": "Leeds 106A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,483",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011534",
+    "lsoaName": "Leeds 106B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,069",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011546",
+    "lsoaName": "Leeds 106C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,206",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011548",
+    "lsoaName": "Leeds 106D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,359",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011550",
+    "lsoaName": "Leeds 106E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "21,144",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011537",
+    "lsoaName": "Leeds 107A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,315",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011538",
+    "lsoaName": "Leeds 107B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,560",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011551",
+    "lsoaName": "Leeds 107C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "17,379",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011552",
+    "lsoaName": "Leeds 107D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,945",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011535",
+    "lsoaName": "Leeds 108A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,688",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011536",
+    "lsoaName": "Leeds 108B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,016",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011549",
+    "lsoaName": "Leeds 108C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "31,671",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011553",
+    "lsoaName": "Leeds 108D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,639",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011685",
+    "lsoaName": "Leeds 109A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "29,162",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011687",
+    "lsoaName": "Leeds 109B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,217",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011690",
+    "lsoaName": "Leeds 109C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "23,418",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011692",
+    "lsoaName": "Leeds 109D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "22,795",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011693",
+    "lsoaName": "Leeds 109E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "19,780",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011694",
+    "lsoaName": "Leeds 109F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "26,001",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01032876",
+    "lsoaName": "Leeds 109G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "27,869",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011442",
+    "lsoaName": "Leeds 110A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "20,290",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011443",
+    "lsoaName": "Leeds 110B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "12,585",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011444",
+    "lsoaName": "Leeds 110C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "9,196",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011451",
+    "lsoaName": "Leeds 110D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "18,257",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011668",
+    "lsoaName": "Leeds 110E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,636",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011669",
+    "lsoaName": "Leeds 110F",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "10,084",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01032946",
+    "lsoaName": "Leeds 110G",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "16,838",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01033008",
+    "lsoaName": "Leeds 111A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "14,601",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01033010",
+    "lsoaName": "Leeds 111B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "8,358",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01033011",
+    "lsoaName": "Leeds 111C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "6,996",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01033015",
+    "lsoaName": "Leeds 111D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,267",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01033016",
+    "lsoaName": "Leeds 111E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "15,050",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011467",
+    "lsoaName": "Leeds 112A",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "2,126",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011468",
+    "lsoaName": "Leeds 112B",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": 762,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011470",
+    "lsoaName": "Leeds 112C",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "5,831",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01033018",
+    "lsoaName": "Leeds 112D",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,093",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01033019",
+    "lsoaName": "Leeds 112E",
+    "laCode": "E08000035",
+    "laName": "Leeds",
+    "imdRank": "13,850",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01027918",
+    "lsoaName": "Selby 001A",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "18,601",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01027919",
+    "lsoaName": "Selby 001B",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "27,123",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027920",
+    "lsoaName": "Selby 001C",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "28,377",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027921",
+    "lsoaName": "Selby 001D",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "26,499",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027922",
+    "lsoaName": "Selby 001E",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "28,606",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027875",
+    "lsoaName": "Selby 002A",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "24,265",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01027888",
+    "lsoaName": "Selby 002D",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "24,717",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01027904",
+    "lsoaName": "Selby 002E",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "22,558",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01027898",
+    "lsoaName": "Selby 004A",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "28,902",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01027914",
+    "lsoaName": "Selby 004B",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "31,268",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01027915",
+    "lsoaName": "Selby 004C",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "18,281",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01027916",
+    "lsoaName": "Selby 004D",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "18,673",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01027917",
+    "lsoaName": "Selby 004E",
+    "laCode": "E07000169",
+    "laName": "Selby",
+    "imdRank": "29,511",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011740",
+    "lsoaName": "Wakefield 001A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,160",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011741",
+    "lsoaName": "Wakefield 001B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,819",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011742",
+    "lsoaName": "Wakefield 001C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,353",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011745",
+    "lsoaName": "Wakefield 001D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,669",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011746",
+    "lsoaName": "Wakefield 001E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 354,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011752",
+    "lsoaName": "Wakefield 002A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,582",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011753",
+    "lsoaName": "Wakefield 002B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,722",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011756",
+    "lsoaName": "Wakefield 002C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,146",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011760",
+    "lsoaName": "Wakefield 002D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,784",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011762",
+    "lsoaName": "Wakefield 002E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "8,573",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011743",
+    "lsoaName": "Wakefield 003A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,909",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011744",
+    "lsoaName": "Wakefield 003B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,803",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011747",
+    "lsoaName": "Wakefield 003C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 880,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011750",
+    "lsoaName": "Wakefield 003D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 173,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011754",
+    "lsoaName": "Wakefield 003E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,517",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011757",
+    "lsoaName": "Wakefield 004A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,409",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011759",
+    "lsoaName": "Wakefield 004B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,786",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011761",
+    "lsoaName": "Wakefield 004C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,661",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011763",
+    "lsoaName": "Wakefield 004D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,412",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011764",
+    "lsoaName": "Wakefield 004E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,368",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011748",
+    "lsoaName": "Wakefield 005A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,745",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011749",
+    "lsoaName": "Wakefield 005B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,446",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011751",
+    "lsoaName": "Wakefield 005C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "19,616",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011755",
+    "lsoaName": "Wakefield 005D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,281",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011873",
+    "lsoaName": "Wakefield 006A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,284",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011877",
+    "lsoaName": "Wakefield 006B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,712",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011894",
+    "lsoaName": "Wakefield 006C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "29,929",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011895",
+    "lsoaName": "Wakefield 006D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,590",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011875",
+    "lsoaName": "Wakefield 007A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,274",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011876",
+    "lsoaName": "Wakefield 007B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,936",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011878",
+    "lsoaName": "Wakefield 007C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "22,845",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011880",
+    "lsoaName": "Wakefield 007D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "27,022",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011881",
+    "lsoaName": "Wakefield 008A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "17,960",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011887",
+    "lsoaName": "Wakefield 008B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "27,969",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011893",
+    "lsoaName": "Wakefield 008C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,567",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011896",
+    "lsoaName": "Wakefield 008D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,342",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011897",
+    "lsoaName": "Wakefield 008E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,265",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011874",
+    "lsoaName": "Wakefield 009A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "27,862",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011879",
+    "lsoaName": "Wakefield 009B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,486",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011882",
+    "lsoaName": "Wakefield 009C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "23,722",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011883",
+    "lsoaName": "Wakefield 009D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,396",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011805",
+    "lsoaName": "Wakefield 010A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,902",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011807",
+    "lsoaName": "Wakefield 010B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,338",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011808",
+    "lsoaName": "Wakefield 010C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,640",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011810",
+    "lsoaName": "Wakefield 010D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "11,109",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011803",
+    "lsoaName": "Wakefield 011A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,386",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011804",
+    "lsoaName": "Wakefield 011B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,312",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011806",
+    "lsoaName": "Wakefield 011C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,720",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011809",
+    "lsoaName": "Wakefield 011D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,816",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011811",
+    "lsoaName": "Wakefield 011E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 611,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011835",
+    "lsoaName": "Wakefield 012A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,130",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011836",
+    "lsoaName": "Wakefield 012B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,019",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011839",
+    "lsoaName": "Wakefield 012C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,252",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011843",
+    "lsoaName": "Wakefield 012D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,629",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011844",
+    "lsoaName": "Wakefield 012E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "28,421",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011758",
+    "lsoaName": "Wakefield 013A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,857",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011812",
+    "lsoaName": "Wakefield 013B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "29,240",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011820",
+    "lsoaName": "Wakefield 013C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,246",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011821",
+    "lsoaName": "Wakefield 013D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,438",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011885",
+    "lsoaName": "Wakefield 014A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "19,595",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011886",
+    "lsoaName": "Wakefield 014B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,589",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011888",
+    "lsoaName": "Wakefield 014C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "29,782",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011890",
+    "lsoaName": "Wakefield 014D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,619",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011891",
+    "lsoaName": "Wakefield 014E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,581",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011834",
+    "lsoaName": "Wakefield 015A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "8,600",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011837",
+    "lsoaName": "Wakefield 015B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,076",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011838",
+    "lsoaName": "Wakefield 015C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,422",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011841",
+    "lsoaName": "Wakefield 015D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "11,726",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011842",
+    "lsoaName": "Wakefield 015E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,529",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011813",
+    "lsoaName": "Wakefield 016A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,879",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011814",
+    "lsoaName": "Wakefield 016B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,449",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011815",
+    "lsoaName": "Wakefield 016C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,253",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011816",
+    "lsoaName": "Wakefield 016D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,158",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011819",
+    "lsoaName": "Wakefield 016E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,882",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011822",
+    "lsoaName": "Wakefield 016F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,566",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011884",
+    "lsoaName": "Wakefield 017A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "23,807",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011912",
+    "lsoaName": "Wakefield 017B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,336",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011913",
+    "lsoaName": "Wakefield 017C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,153",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011916",
+    "lsoaName": "Wakefield 017D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,506",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011840",
+    "lsoaName": "Wakefield 018A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,574",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011850",
+    "lsoaName": "Wakefield 018B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,598",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011852",
+    "lsoaName": "Wakefield 018C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,615",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011853",
+    "lsoaName": "Wakefield 018D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,697",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011920",
+    "lsoaName": "Wakefield 019A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,254",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011923",
+    "lsoaName": "Wakefield 019B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "26,676",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011924",
+    "lsoaName": "Wakefield 019C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,982",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011925",
+    "lsoaName": "Wakefield 019D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,835",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011909",
+    "lsoaName": "Wakefield 020A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "10,265",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011910",
+    "lsoaName": "Wakefield 020B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 951,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011911",
+    "lsoaName": "Wakefield 020C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,308",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011914",
+    "lsoaName": "Wakefield 020D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,324",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011915",
+    "lsoaName": "Wakefield 020E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,805",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011823",
+    "lsoaName": "Wakefield 021A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,769",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011824",
+    "lsoaName": "Wakefield 021B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,577",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011825",
+    "lsoaName": "Wakefield 021C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,358",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011826",
+    "lsoaName": "Wakefield 021D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "25,291",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011827",
+    "lsoaName": "Wakefield 021E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,214",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011828",
+    "lsoaName": "Wakefield 021F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "22,514",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011889",
+    "lsoaName": "Wakefield 022A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "23,714",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011892",
+    "lsoaName": "Wakefield 022B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,096",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011919",
+    "lsoaName": "Wakefield 022C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,152",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011921",
+    "lsoaName": "Wakefield 022D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,971",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011926",
+    "lsoaName": "Wakefield 022E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,169",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011927",
+    "lsoaName": "Wakefield 022F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,434",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011845",
+    "lsoaName": "Wakefield 023A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "30,393",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011846",
+    "lsoaName": "Wakefield 023B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,781",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011847",
+    "lsoaName": "Wakefield 023C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "28,531",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011848",
+    "lsoaName": "Wakefield 023D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "27,296",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011851",
+    "lsoaName": "Wakefield 023E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,058",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011775",
+    "lsoaName": "Wakefield 024A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "19,732",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011776",
+    "lsoaName": "Wakefield 024B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,868",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011777",
+    "lsoaName": "Wakefield 024C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,884",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011778",
+    "lsoaName": "Wakefield 024D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "11,996",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011817",
+    "lsoaName": "Wakefield 024E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,286",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011818",
+    "lsoaName": "Wakefield 024F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,742",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011829",
+    "lsoaName": "Wakefield 025A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,829",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011830",
+    "lsoaName": "Wakefield 025B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,817",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011831",
+    "lsoaName": "Wakefield 025C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,582",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011832",
+    "lsoaName": "Wakefield 025D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,148",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011833",
+    "lsoaName": "Wakefield 025E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,574",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011899",
+    "lsoaName": "Wakefield 026A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,085",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011900",
+    "lsoaName": "Wakefield 026B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,105",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011901",
+    "lsoaName": "Wakefield 026C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,414",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011904",
+    "lsoaName": "Wakefield 026D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,849",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011918",
+    "lsoaName": "Wakefield 026E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,968",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011922",
+    "lsoaName": "Wakefield 026F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,134",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011779",
+    "lsoaName": "Wakefield 027A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "8,774",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011780",
+    "lsoaName": "Wakefield 027B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 520,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011781",
+    "lsoaName": "Wakefield 027C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,186",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011782",
+    "lsoaName": "Wakefield 027D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,559",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011783",
+    "lsoaName": "Wakefield 027E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,916",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011902",
+    "lsoaName": "Wakefield 028A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,146",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011903",
+    "lsoaName": "Wakefield 028B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "8,958",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011905",
+    "lsoaName": "Wakefield 028C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "28,091",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011907",
+    "lsoaName": "Wakefield 028D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,404",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011793",
+    "lsoaName": "Wakefield 029A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,033",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011794",
+    "lsoaName": "Wakefield 029B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "11,591",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011795",
+    "lsoaName": "Wakefield 029C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,631",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011796",
+    "lsoaName": "Wakefield 029D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,806",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011799",
+    "lsoaName": "Wakefield 029E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "12,982",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011800",
+    "lsoaName": "Wakefield 029F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "22,134",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011898",
+    "lsoaName": "Wakefield 030A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,748",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011906",
+    "lsoaName": "Wakefield 030B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 895,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011908",
+    "lsoaName": "Wakefield 030C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,934",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011917",
+    "lsoaName": "Wakefield 030D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,303",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011944",
+    "lsoaName": "Wakefield 030E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,207",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011797",
+    "lsoaName": "Wakefield 031A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "31,254",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011798",
+    "lsoaName": "Wakefield 031B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,124",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011801",
+    "lsoaName": "Wakefield 031C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,153",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011802",
+    "lsoaName": "Wakefield 031D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "18,493",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011765",
+    "lsoaName": "Wakefield 032A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,765",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011766",
+    "lsoaName": "Wakefield 032B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,203",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011773",
+    "lsoaName": "Wakefield 032C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "28,551",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011774",
+    "lsoaName": "Wakefield 032D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,678",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011939",
+    "lsoaName": "Wakefield 033A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "29,015",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011945",
+    "lsoaName": "Wakefield 033B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "26,554",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011947",
+    "lsoaName": "Wakefield 033C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "30,752",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011948",
+    "lsoaName": "Wakefield 033D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "31,027",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011767",
+    "lsoaName": "Wakefield 034A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "22,972",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011768",
+    "lsoaName": "Wakefield 034B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,527",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011769",
+    "lsoaName": "Wakefield 034C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,341",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011770",
+    "lsoaName": "Wakefield 034D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "14,385",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011849",
+    "lsoaName": "Wakefield 034E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "20,645",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011857",
+    "lsoaName": "Wakefield 034F",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "25,081",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011928",
+    "lsoaName": "Wakefield 035A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,389",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011931",
+    "lsoaName": "Wakefield 035B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "23,870",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011932",
+    "lsoaName": "Wakefield 035C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "30,153",
+    "imdDecile": 10
+  },
+  {
+    "lsoaCode": "E01011938",
+    "lsoaName": "Wakefield 035D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,479",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011929",
+    "lsoaName": "Wakefield 036A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "23,531",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011930",
+    "lsoaName": "Wakefield 036B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,768",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011933",
+    "lsoaName": "Wakefield 036C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,401",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011937",
+    "lsoaName": "Wakefield 036D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "26,464",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011934",
+    "lsoaName": "Wakefield 037A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "24,394",
+    "imdDecile": 8
+  },
+  {
+    "lsoaCode": "E01011936",
+    "lsoaName": "Wakefield 037B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,670",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011940",
+    "lsoaName": "Wakefield 037C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,344",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011943",
+    "lsoaName": "Wakefield 037D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,220",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011935",
+    "lsoaName": "Wakefield 038A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "27,043",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011941",
+    "lsoaName": "Wakefield 038B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "21,273",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011942",
+    "lsoaName": "Wakefield 038C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "22,289",
+    "imdDecile": 7
+  },
+  {
+    "lsoaCode": "E01011946",
+    "lsoaName": "Wakefield 038D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "29,200",
+    "imdDecile": 9
+  },
+  {
+    "lsoaCode": "E01011785",
+    "lsoaName": "Wakefield 039A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,723",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011789",
+    "lsoaName": "Wakefield 039B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,622",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011791",
+    "lsoaName": "Wakefield 039C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,051",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011792",
+    "lsoaName": "Wakefield 039D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 195,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011771",
+    "lsoaName": "Wakefield 040A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,136",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011772",
+    "lsoaName": "Wakefield 040B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,492",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011784",
+    "lsoaName": "Wakefield 040C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,501",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011786",
+    "lsoaName": "Wakefield 040D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "7,254",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011854",
+    "lsoaName": "Wakefield 041A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,899",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011855",
+    "lsoaName": "Wakefield 041B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,306",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011856",
+    "lsoaName": "Wakefield 041C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,651",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011858",
+    "lsoaName": "Wakefield 041D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "11,394",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011787",
+    "lsoaName": "Wakefield 042A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,755",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011788",
+    "lsoaName": "Wakefield 042B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "15,689",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011790",
+    "lsoaName": "Wakefield 042C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,130",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011865",
+    "lsoaName": "Wakefield 042D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,439",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011867",
+    "lsoaName": "Wakefield 042E",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,400",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011859",
+    "lsoaName": "Wakefield 043A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,449",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011869",
+    "lsoaName": "Wakefield 043B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "2,210",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011870",
+    "lsoaName": "Wakefield 043C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "13,521",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011871",
+    "lsoaName": "Wakefield 043D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "9,964",
+    "imdDecile": 4
+  },
+  {
+    "lsoaCode": "E01011860",
+    "lsoaName": "Wakefield 044A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "16,074",
+    "imdDecile": 5
+  },
+  {
+    "lsoaCode": "E01011861",
+    "lsoaName": "Wakefield 044B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "17,758",
+    "imdDecile": 6
+  },
+  {
+    "lsoaCode": "E01011862",
+    "lsoaName": "Wakefield 044C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "5,221",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011863",
+    "lsoaName": "Wakefield 044D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": 901,
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011864",
+    "lsoaName": "Wakefield 045A",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "1,929",
+    "imdDecile": 1
+  },
+  {
+    "lsoaCode": "E01011866",
+    "lsoaName": "Wakefield 045B",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "3,400",
+    "imdDecile": 2
+  },
+  {
+    "lsoaCode": "E01011868",
+    "lsoaName": "Wakefield 045C",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "6,689",
+    "imdDecile": 3
+  },
+  {
+    "lsoaCode": "E01011872",
+    "lsoaName": "Wakefield 045D",
+    "laCode": "E08000036",
+    "laName": "Wakefield",
+    "imdRank": "4,313",
+    "imdDecile": 2
+  }
+]
