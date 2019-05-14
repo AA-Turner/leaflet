@@ -82,9 +82,7 @@ function lsoaOverlay(geoData) {
 
   function forEachFeature(feature, layer) {
     let popupContent = "<p>LSOA code: <b>" + feature.properties.lsoa11nm + "</b><br />" +
-      "LSOA decile: " + feature.properties.imdDecile + "<br />" + '#' + feature.properties.imdDecile + '0ffff' +
-
-      "</b></p>" ;
+      "LSOA decile: <b>" + feature.properties.imdDecile + "</b></p>" ;
     layer.bindPopup(popupContent);
 
     layer.on({
