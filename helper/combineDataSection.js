@@ -1,64 +1,54 @@
 const postcodeGeoJSONFile = 'CYS Postcodes.json';
 const sectionJSONFile = 'CYS Sections.json';
 let postcodeGeoJSON;
-let sectionJSON;
 let combinedSectionJSON;
+
 function importJSONData() {
-    let ajaxPostcode = $.getJSON(postcodeGeoJSONFile,);
-    let ajaxSection = $.getJSON(sectionJSONFile);
-    $.when(ajaxPostcode,ajaxSection).done(function (postcode, section) {
-        postcodeGeoJSON = postcode;
-        sectionJSON = section;
-        combinedSectionJSON = groupOverlayJoinHelper(postcodeGeoJSON[0], sectionJSON[0], 'postcode','postcode' );
-        afterCombination();
-    });
-}
+  $.when(
+    $.getJSON(postcodeGeoJSONFile), //ajaxPostcode
+    $.getJSON(sectionJSONFile)      //ajaxSection
+  ).done( (postcode, section) => {
+    postcodeGeoJSON = postcode; //because of import geocode
 
-
-function afterCombination ()
-{
+    combinedSectionJSON = joinTables(
+      postcodeGeoJSON[0],
+      section[0],
+      postcodeObject => {
+        return postcodeObject.features[0].properties.postcode;
+      },
+      meetingPlaceObject => {
+        return meetingPlaceObject.postcode;
+      },
+      combineDataHelper);
     console.log(combinedSectionJSON);
+    console.log(postcodeGeoJSON);     //these two should be identical
+  });
 }
 
-function groupOverlayJoinHelper(lookupTable, mainTable, lookupKey, mainKey) {
-    const l = lookupTable.length; ////should have unique values for the index column
-    const m = mainTable.length;   //LSOA JSON
-    const lookupIndex = [];
-    const output = [];
-    for (var i = 0; i < l; i++) { // loop through l items (length of lookup)
-        //console.log('lookupTable');
-        //console.log(lookupTable);
-        const lookupObject = lookupTable[i]; //gets the object at row i
-        //console.log('lookupObject');
-        //console.log(lookupObject);
-        const lookupIndexKey = lookupObject.features[0].properties[lookupKey];
-        lookupIndex[lookupIndexKey] = lookupObject; //creates an entry in the lookup table with specific value of lookupKey from
-        // object row. SW1A 0AA => Object for Palace of Westminster
-    }
-    for (var j = 0; j < m; j++) { // loop through m items (length of main)
-        const sectionObject = mainTable[j]; //
-        const postcodeObject = lookupIndex[sectionObject[mainKey]]; // get corresponding row from lookupTable
-        let key; //dummy variable for key-value pairs
+function combineDataHelper(postcodeObject, sectionObject){
+  let key; //dummy variable for key-value pairs
+  let props = postcodeObject.features[0].properties;
+  var currentDistrict = sectionObject.district;
+  var currentGroup = sectionObject.group;
+  var currentSectionName = sectionObject.sectionName;
+  if (typeof props.districts === "undefined")                                                                     { props.districts = {}; }
+  if (typeof props.districts[currentDistrict] === "undefined")                                                    { props.districts[currentDistrict] = {}; }
+  if (typeof props.districts[currentDistrict].groups === "undefined")                                             { props.districts[currentDistrict].groups = {}; }
+  if (typeof props.districts[currentDistrict].groups[currentGroup] === "undefined")                               { props.districts[currentDistrict].groups[currentGroup] = {}; }
+  if (typeof props.districts[currentDistrict].groups[currentGroup].sections === "undefined")                      { props.districts[currentDistrict].groups[currentGroup].sections = {}; }
+  if (typeof props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName] === "undefined")  { props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName] = {}; }
+  let propsSection = props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName];
 
-        if (typeof postcodeObject !== "undefined") {
-            let props = postcodeObject.features[0].properties;
-            var currentDistrict = sectionObject.district;
-            var currentGroup = sectionObject.group;
-            var currentSectionName = sectionObject.sectionName;
-            if (typeof props.districts === "undefined")                                                                     { props.districts = {}; }
-            if (typeof props.districts[currentDistrict] === "undefined")                                                    { props.districts[currentDistrict] = new Object(); }
-            if (typeof props.districts[currentDistrict].groups === "undefined")                                             { props.districts[currentDistrict].groups = new Object(); }
-            if (typeof props.districts[currentDistrict].groups[currentGroup] === "undefined")                               { props.districts[currentDistrict].groups[currentGroup] = new Object(); }
-            if (typeof props.districts[currentDistrict].groups[currentGroup].sections === "undefined")                      { props.districts[currentDistrict].groups[currentGroup].sections = new Object(); }
-            if (typeof props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName] === "undefined")  { props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName] = new Object(); }
-            propsSection = props.districts[currentDistrict].groups[currentGroup].sections[currentSectionName];
-            for (key in sectionObject) {
-                if (sectionObject.hasOwnProperty(key)) {
-                    propsSection[key]= sectionObject[key];
-                }
-            }
-            output.push(postcodeObject);
-        }
+  /*
+  if (typeof props[currentDistrict] === "undefined")                                    { props[currentDistrict] = new Object(); }
+  if (typeof props[currentDistrict][currentGroup] === "undefined")                      { props[currentDistrict][currentGroup] = new Object(); }
+  if (typeof props[currentDistrict][currentGroup][currentSectionName] === "undefined")  { props[currentDistrict][currentGroup][currentSectionName] = new Object(); }
+  propsSection = props[currentDistrict][currentGroup][currentSectionName];    */
+
+  for (key in sectionObject) {
+    if (sectionObject.hasOwnProperty(key)) {
+      propsSection[key]= sectionObject[key];
     }
-    return output;
+  }
+  return postcodeObject;
 }
