@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <script>L_PREFER_CANVAS = false;
+    L_NO_TOUCH = false;
+    L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet"
+          href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }</style>
+    <style>#map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+    }</style>
+
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <style>#cyMap {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+    }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+</head>
+<body>
+
+<div class="folium-map" id="cyMap"></div>
+</body>
+<script>
+    var bounds = null;
+
+    var cyMap = L.map(
+        'cyMap', {
+            center: [53.768196, -1.41037], //53.5, -1.49
+            zoom: 11,                //6
+            maxBounds: bounds, //null
+            layers: [],
+            worldCopyJump: false,
+            crs: L.CRS.EPSG3857,
+            zoomControl: true,
+        });
+
+    var osmTileLayer = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+            "attribution": null,
+            "detectRetina": false,
+            "maxNativeZoom": 18,
+            "maxZoom": 18,
+            "minZoom": 0,
+            "noWrap": false,
+            "opacity": 1,
+            "subdomains": "abc",
+            "tms": false
+        }).addTo(cyMap);
+
+    var sectionsMarkerClusterLayer = L.markerClusterGroup({});
+    cyMap.addLayer(sectionsMarkerClusterLayer);
+
+    var imdDecileLayer_geo_json = L.geoJson().addTo(cyMap);
+    imdDecileLayer_geo_json.setStyle(function (feature) {
+        return feature.properties.style;
+    });
+
+    imdDecileLayer_geo_json.bindTooltip(
+        function (layer) {
+            // Convert non-primitive to String.
+            let handleObject = (feature) => typeof (feature) == 'object' ? JSON.stringify(feature) : feature;
+            let fields = ['lsoa11nm', 'imd_decile'];
+
+            let aliases = ['Name', 'IMD'];
+
+            return '<table>' +
+                String(
+                    fields.map(
+                        columnname =>
+                            `<tr style="text-align: left;">
+                                <th style="padding: 4px 10px 4px 4px;">${aliases[fields.indexOf(columnname)].toLocaleString()}</th>
+                                <td style="padding: 4px;">${handleObject(layer.feature.properties[columnname]).toLocaleString()}</td>
+                            </tr>`
+                    ).join(''))
+                + '</table>'
+        }, {"sticky": true});
+
+    var colourLegendLayer = {};
+
+    colourLegendLayer.color = d3.scale.threshold()
+        .domain('COMPLICATED WAY OF DOING STEPPED COLOUR')
+        .range('COMPLICATED WAY OF DOING STEPPED COLOUR PT 2');
+
+    colourLegendLayer.x = d3.scale.linear()
+        .domain([1.0, 10.0])
+        .range([0, 400]);
+
+    colourLegendLayer.legend = L.control({position: 'topright'});
+    colourLegendLayer.legend.onAdd = function (map) {
+        var div = L.DomUtil.create('div', 'legend');
+        return div
+    };
+    colourLegendLayer.legend.addTo(cyMap);
+
+    colourLegendLayer.xAxis = d3.svg.axis()
+        .scale(colourLegendLayer.x)
+        .orient("top")
+        .tickSize(1)
+        .tickValues([1.0, 2.0, 4.0, 6.0, 8.0, 10.0]);
+
+    colourLegendLayer.svg = d3.select(".legend.leaflet-control").append("svg")
+        .attr("id", 'legend')
+        .attr("width", 450)
+        .attr("height", 40);
+
+    colourLegendLayer.g = colourLegendLayer.svg.append("g")
+        .attr("class", "key")
+        .attr("transform", "translate(25,16)");
+
+    colourLegendLayer.g.selectAll("rect")
+        .data(colourLegendLayer.color.range().map(function (d, i) {
+            return {
+                x0: i ? colourLegendLayer.x(colourLegendLayer.color.domain()[i - 1]) : colourLegendLayer.x.range()[0],
+                x1: i < colourLegendLayer.color.domain().length ? colourLegendLayer.x(colourLegendLayer.color.domain()[i]) : colourLegendLayer.x.range()[1],
+                z: d
+            };
+        }))
+        .enter().append("rect")
+        .attr("height", 10)
+        .attr("x", function (d) {
+            return d.x0;
+        })
+        .attr("width", function (d) {
+            return d.x1 - d.x0;
+        })
+        .style("fill", function (d) {
+            return d.z;
+        });
+
+    colourLegendLayer.g.call(colourLegendLayer.xAxis).append("text")
+        .attr("class", "caption")
+        .attr("y", 21)
+        .text('IMD Decile');
+
+    /*#######################
+    MARKER Start
+    #######################*/
+    var marker_X = L.marker(
+        [53.801445, -1.551744],
+        {
+            icon: new L.Icon.Default(),
+        }
+    ).addTo(cyMap);
+
+    var icon_X = L.AwesomeMarkers.icon({
+        icon: 'info-sign',
+        iconColor: 'white',
+        markerColor: 'red',
+        prefix: 'glyphicon',
+        extraClasses: 'fa-rotate-0'
+    });
+    marker_Y.setIcon(icon_X);
+
+    var popup_X = L.popup({
+        maxWidth: '2650'
+    });
+
+    var i_frame_X = $(`<iframe src="data:text/html;charset=utf-8;base64,CiAgICA8aDMgYWxpZ249ImNlbnRlciI+TGVlZHMgVGVhY2hpbmcgSG9zcGl0YWxzIEd1aWRlIGFuZCBTY291dCBHcm91cCBHcm91cDwvaDM+PHAgYWxpZ249ImNlbnRlciI+PGJyPkxlZWRzIEhvc3BpdGFsIEludGVncmF0ZWQgU2VjdGlvbiA6IDAgU2NvdXRzPGJyPjwvcD4=" width="350" style="border:none !important;" height="100"></iframe>`)[0];
+    /*<h3 align="center">Leeds Teaching Hospitals Guide and Scout Group Group</h3><p align="center"><br>Leeds Hospital Integrated Section : 0 Scouts<br></p>*/
+    popup_X.setContent(i_frame_X);
+
+    marker_Y.bindPopup(popup_X);
+
+    /*#######################
+        MARKER Stop
+        repeat * lots of times
+    #######################*/
+
+
+    var controlLayer = {
+        base_layers: {"openstreetmap": osmTileLayer,},
+        overlays: {
+            "Sections": sectionsMarkerClusterLayer,
+            "IMD Decile": imdDecileLayer_geo_json,
+        }
+    };
+    L.control.layers(
+        controlLayer.base_layers,
+        controlLayer.overlays,
+        {
+            position: 'topright',
+            collapsed: false,
+            autoZIndex: true
+        }).addTo(cyMap);
+</script>

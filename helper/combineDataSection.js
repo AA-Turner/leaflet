@@ -45,7 +45,7 @@ function groupOverlayJoinHelper(lookupTable, mainTable, lookupKey, mainKey) {
             var currentDistrict = sectionObject.district;
             var currentGroup = sectionObject.group;
             var currentSectionName = sectionObject.sectionName;
-            if (typeof props.districts === "undefined")                                                                     { props.districts = new Object(); }
+            if (typeof props.districts === "undefined")                                                                     { props.districts = {}; }
             if (typeof props.districts[currentDistrict] === "undefined")                                                    { props.districts[currentDistrict] = new Object(); }
             if (typeof props.districts[currentDistrict].groups === "undefined")                                             { props.districts[currentDistrict].groups = new Object(); }
             if (typeof props.districts[currentDistrict].groups[currentGroup] === "undefined")                               { props.districts[currentDistrict].groups[currentGroup] = new Object(); }

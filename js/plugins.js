@@ -4,7 +4,7 @@
   var noop = function () {};
   var methods = [
     'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
-    'exception', 'group', 'groupCollapsed', 'groupEnd', 'infoLayer', 'log',
+    'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
     'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
     'timeline', 'timelineEnd', 'timeStamp', 'trace', 'warn'
   ];

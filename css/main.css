@@ -2,37 +2,46 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   html {
-       color: #222;
-       font-size: 1em;
-       line-height: 1;
-   }
- /* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1;
+}
+/* ==========================================================================
+  Author's custom styles
+  ========================================================================== */
 
 html, body {
-  height: 100%;
+    height: 100%;
 }
 #mapid { height: 100%; }
 
-.info {
-  padding: 6px 8px;
-  font: 14px/16px Arial, Helvetica, sans-serif;
-  background: white;
-  background: rgba(255,255,255,0.8);
-  box-shadow: 0 0 15px rgba(0,0,0,0.2);
-  border-radius: 5px;
+.info { /* Deprivation data legend  */
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    width: auto;
 }
-.info h4 {
-  margin: 0 0 5px;
-  color: #777;
+.info h4 { /* Deprivation data legend  */
+    margin: 0 0 5px;
+    color: #777;
+    text-align: center;
 }
 
+.info table th { /* Deprivation data legend  */
+    text-align: right;
+}
 
+.info div { /* Deprivation data legend  */
+    text-align: center;
+}
 
-
-
+.groupAlignCentre { /* popup  */
+    text-align: center;
+}
 
 
 

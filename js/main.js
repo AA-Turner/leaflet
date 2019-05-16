@@ -5,8 +5,10 @@ const lsoaJsonFile = 'data/CYS LSOA.json';
 const imdJsonFile = 'data/CYS IMD.json';
 const combinedDataDeprivationFile = 'data/CYS combined LSOA-IMD.json';
 let map;
-let mapboxLayer;
+let mapboxTileLayer;
+let osmTileLayer
 let lsoaLayer;
+let deprivationLayer;
 let deprivationInfoControl;
 let boundaryLayer;
 let aldwark;
@@ -14,25 +16,42 @@ let meetingPlaces;
 
 function initialise() {
   map = L.map('mapid').setView([initLat, initLan], initZoom);
-  mapboxLayer = new L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,'+
-      ' Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.streets',
-    accessToken: 'pk.eyJ1IjoiYWRhbXR1cm5lciIsImEiOiJjanZsaDNpM2EweWxoM3lxbXgwOXBhcWlhIn0.HeY-b9fI2VD9UvSPaRgOPQ'
-  }).addTo(map);
+  let mapboxAttribution = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors ' +
+      '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+      'Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>';
+  let osmAttribution = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors ' +
+      '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ';
+  mapboxTileLayer = new L.tileLayer(
+      'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',
+      {
+        "attribution": mapboxAttribution,
+        "maxZoom": 18,
+        "id": 'mapbox.streets',
+        "accessToken": 'pk.eyJ1IjoiYWRhbXR1cm5lciIsImEiOiJjanZsaDNpM2EweWxoM3lxbXgwOXBhcWlhIn0.HeY-b9fI2VD9UvSPaRgOPQ'
+      }).addTo(map);
+  osmTileLayer = L.tileLayer(
+      'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      {
+        "attribution": osmAttribution,
+        "maxZoom": 18,
+      }); //don't add to map as OSM is an option but not default. Can select via layer controls.
+
   console.log('initialise');
-  sectionOverlayInit();
-  deprivationOverlayInit();
-  boundaryOverlay();
+  initInfoControl();          //def: deprivationInfoControl req: none
+  boundaryOverlay();          //def: boundaryLayer
+  meetingPlacesOverlayInit(); //def: meetingPlaces
+  deprivationOverlayInit();   //def: lsoaLayer              req: deprivationInfoControl boundaryLayer
   aldwarkLayer();
+
+
 }
 
 function boundaryOverlay() {
-  boundaryLayer = L.geoJson(null, {onEachFeature: forEachFeature, style: style});
+  boundaryLayer = L.geoJson(null, { style: style})
+      .addTo(map);
+
   $.getJSON('data/CYS Boundary Full.json', function (data) {
     boundaryLayer.addData(data);
-    boundaryLayer.addTo(map);
   });
 
   function style(feature) {
@@ -43,13 +62,13 @@ function boundaryOverlay() {
       fill: false
     };
   }
-
-  function forEachFeature(feature, layer) {  }
+  //onEachFeature: forEachFeature,
+  //function forEachFeature(feature, layer) {  }
 }
 
 function aldwarkLayer() {
-  aldwark = L.marker([54.052837, -1.289845]).bindPopup('Aldwark Activity Centre');
-  aldwark.addTo(map);
+  aldwark = L.marker([54.052837, -1.289845]).bindPopup('Aldwark Activity Centre')
+      .addTo(map);
 }
 
 function boundaryTop() {

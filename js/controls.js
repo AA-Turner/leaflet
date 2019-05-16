@@ -1,11 +1,17 @@
+function initInfoControl() {
+    deprivationInfoControl = L.control();
+    infoControl();
+}
+
 function overlayControl() {
     // for Layer Control
     const baseMaps = {
-        "Mapbox": mapboxLayer
+        "Mapbox": mapboxTileLayer,
+        "Open Street Map": osmTileLayer
     };
 
     const overlayMaps = {
-        "LSOA": lsoaLayer,
+        "Deprivation": deprivationLayer,
         "Boundary": boundaryLayer,
         "Aldwark marker": aldwark,
         "Meeting Places": meetingPlaces
@@ -16,8 +22,6 @@ function overlayControl() {
 }
 
 function infoControl() {
-    deprivationInfoControl = L.control();
-
     deprivationInfoControl.onAdd = function () {
         this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
         this.update();
@@ -26,11 +30,14 @@ function infoControl() {
 
 // method that we will use to update the control based on feature properties passed
     deprivationInfoControl.update = function (props) {
-        this._div.innerHTML = '<h4>IMD Decile <br /> '+
-            '(1 = most deprived)</h4>' +  (props ?
-                '<b>' + props.lsoaName + '</b><br />' + props.imdDecile
-                : 'Hover over a region');
+        this._div.innerHTML =
+            `<h4>IMD Decile<br />(where 1 is most deprived)</h4>
+             ${ props ?
+                `<table><tr><th>Name:</th><td>${props.lsoaName}</td></tr>
+                 <tr><th>IMD Decile:</th><td>${props.imdDecile}</td></tr></table>` :
+                '<div><strong>No region selected</strong><br />Hover over a region</div>'
+                }`;
     };
-
     deprivationInfoControl.addTo(map);
+
 }

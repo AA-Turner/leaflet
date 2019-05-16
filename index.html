@@ -6,30 +6,33 @@
   <title>Map</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/normalise.css">
   <link rel="stylesheet" href="css/main.css">
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin=""/>
-   <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
           integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
           crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet-choropleth@1.1.4/dist/choropleth.js"
+          integrity="sha384-1HHGtG3j4JsO4OWjjpGkYj3BfiebiEz6zljwM+SG6EkZeyx/qTNCyKZcYS4ZYZPt"
+          crossorigin="anonymous"></script>
 
 
 </head>
 
 <body>
-  <div id="mapid"></div>
+<div id="mapid"></div>
 
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="js/plugins.js"></script>
-  <script src="js/combineDataDeprivation.js"></script>
-  <script src="js/deprivationOverlay.js"></script>
-  <script src="js/sectionOverlay.js"></script>
-  <script src="js/controls.js"></script>
-  <script src="js/main.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+<script src="js/plugins.js"></script>
+<script src="helper/combineDataDeprivation.js"></script>
+<script src="js/deprivationOverlay.js"></script>
+<script src="js/meetingPlacesOverlay.js"></script>
+<script src="js/controls.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
