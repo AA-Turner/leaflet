@@ -3,7 +3,13 @@ function initInfoControl() {
     infoControl();
 }
 
-function overlayControl() {
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function overlayControl() {
+    await sleep(1000);
+
     // for Layer Control
     const baseMaps = {
         "Mapbox": mapboxTileLayer,
@@ -13,8 +19,8 @@ function overlayControl() {
     const overlayMaps = {
         "Deprivation": deprivationLayer,
         "Boundary": boundaryLayer,
-        "Aldwark marker": aldwark,
-        "Meeting Places": meetingPlaces
+        "Meeting Places": meetingPlaces,
+        "Aldwark marker": aldwark
     };
 
 //Add layer control

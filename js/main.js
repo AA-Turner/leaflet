@@ -6,8 +6,7 @@ const imdJsonFile = 'data/CYS IMD.json';
 const combinedDataDeprivationFile = 'data/CYS combined LSOA-IMD.json';
 let map;
 let mapboxTileLayer;
-let osmTileLayer
-let lsoaLayer;
+let osmTileLayer;
 let deprivationLayer;
 let deprivationInfoControl;
 let boundaryLayer;
@@ -21,7 +20,7 @@ function initialise() {
       'Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>';
   let osmAttribution = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors ' +
       '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ';
-  mapboxTileLayer = new L.tileLayer(
+  mapboxTileLayer = new L.TileLayer(
       'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',
       {
         "attribution": mapboxAttribution,
@@ -43,7 +42,7 @@ function initialise() {
   deprivationOverlayInit();   //def: lsoaLayer              req: deprivationInfoControl boundaryLayer
   aldwarkLayer();
 
-
+  overlayControl();
 }
 
 function boundaryOverlay() {
@@ -54,7 +53,7 @@ function boundaryOverlay() {
     boundaryLayer.addData(data);
   });
 
-  function style(feature) {
+  function style() { //parameter feature
     return {
       color: '#000',
       weight: 2,

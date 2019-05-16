@@ -1,24 +1,8 @@
 function deprivationOverlay(geoData) {
     // Null variable that will hold layer
-    deprivationLayer = L.choropleth
-    (geoData, {
-        valueProperty: 'imdDecile', // function (feature) { return feature.properties.imdDecile }
-        scale: ['red', 'white'],
-        steps: 10,
-        mode: 'q',
-        onEachFeature: forEachFeature,
-        style: {
-            fillOpacity: 0.65, //fill
-            weight: 1, //stroke
-            opacity: 1,//stroke
-            color: 'white',//stroke
-            dashArray: '2'//stroke
-        }
-    }).addTo(map);
+    deprivationLayer.addData(geoData);
 
     boundaryTop();
-
-    overlayControl();
 }
 
 function forEachFeature(feature, layer) {
@@ -59,6 +43,26 @@ function usePreCombinedData() {
 }
 
 function deprivationOverlayInit() {
+    let options = choroplethOptions (
+        {
+            valueProperty: 'imdDecile', // function (feature) { return feature.properties.imdDecile }
+            scale: ['red', 'deeppink', 'lightyellow'],
+            steps: 10,
+            mode: 'q',
+            onEachFeature: forEachFeature,
+            style: {
+                fillOpacity: 0.8, //fill
+                weight: 1, //stroke
+                opacity: 1,//stroke
+                color: 'white',//stroke
+                dashArray: '2'//stroke
+            }
+        }, [1,2,3,4,5,6,7,8,9,10]
+    );
+
+    deprivationLayer = new L.GeoJSON(null, options)
+        .addTo(map);
+
     //combineDatasets();
     usePreCombinedData();
 }
