@@ -35,9 +35,9 @@ function choroplethOptions (userOptions, values) {
 
 	let limits = chroma.limits(values, options.mode, options.steps - 1);
 	// Create color buckets
-	let colours = (options.colours && options.colours.length === limits.length ?
-		options.colours :
-		chroma.bezier(options.scale).scale().correctLightness().colors(limits.length));
+	let colours = ( options.bezier ?
+		chroma.bezier(options.scale).scale().correctLightness().colors(limits.length) :
+		chroma.scale(options.scale).colors(limits.length) );
 
 	extend (options, {
 		limits: limits,

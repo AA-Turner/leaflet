@@ -46,16 +46,16 @@ function deprivationOverlayInit() {
     let options = choroplethOptions (
         {
             valueProperty: 'imdDecile', // function (feature) { return feature.properties.imdDecile }
-            scale: ['red', 'deeppink', 'lightyellow'],
+            scale: ['red', 'deeppink', 'lightyellow'], //['#ca0020', '#eca88a', '#c3b5b0', '#9ac3d7','#0571b0'] fillOpacity: 0.4, weight: 0.2,color: 'black', dashArray: 0
+            bezier: true,
             steps: 10,
             mode: 'q',
             onEachFeature: forEachFeature,
             style: {
                 fillOpacity: 0.8, //fill
                 weight: 1, //stroke
-                opacity: 1,//stroke
                 color: 'white',//stroke
-                dashArray: '2'//stroke
+                dashArray: 2 //stroke
             }
         }, [1,2,3,4,5,6,7,8,9,10]
     );
