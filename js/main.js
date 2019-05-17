@@ -39,19 +39,30 @@ function initialise() {
   initInfoControl();          //def: deprivationInfoControl req: none
   boundaryOverlay();          //def: boundaryLayer
   meetingPlacesOverlayInit(); //def: meetingPlaces
-  deprivationOverlayInit();   //def: lsoaLayer              req: deprivationInfoControl boundaryLayer
+  deprivationOverlayInit(); //def: lsoaLayer              req: deprivationInfoControl boundaryLayer
   aldwarkLayer();
-
   overlayControl();
+  loadData();
+}
+
+function loadData() {
+    $.when(
+        $.getJSON(combinedDataDeprivationFile),
+        $.getJSON(combinedDataMeetingPlacesFile),
+        $.getJSON('data/CYS Boundary Full.json')
+    ).done(
+        (fetchDeprivation, fetchMeetingPlaces, fetchBoundary) =>
+        {
+            deprivationOverlay(fetchDeprivation);
+            boundaryLayer.addData(fetchBoundary);
+            meetingPlacesOverlay(fetchMeetingPlaces); //send actual data, filter out ajax response wrapper
+        }
+    );
 }
 
 function boundaryOverlay() {
   boundaryLayer = L.geoJson(null, { style: style})
       .addTo(map);
-
-  $.getJSON('data/CYS Boundary Full.json', function (data) {
-    boundaryLayer.addData(data);
-  });
 
   function style() { //parameter feature
     return {

@@ -3,16 +3,9 @@ const combinedDataMeetingPlacesFile = 'data/CYS combined postcodes-sections.json
 function meetingPlacesOverlayInit(){
     meetingPlaces = L.layerGroup()
         .addTo(map);
-    usePreCombinedDataMeetingPlacesOverlay();
-}
-function usePreCombinedDataMeetingPlacesOverlay() {
-    $.getJSON(combinedDataMeetingPlacesFile, function (data) {
-        meetingPlacesOverlay(data); //send actual data, filter out ajax response wrapper
-    });
 }
 
 function meetingPlacesOverlay(geoData) {
-
     for (let i = 0; i < geoData.length; i++) {
         const item = geoData[i].features[0];
         const coords = item.geometry.coordinates;

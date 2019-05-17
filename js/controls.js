@@ -3,12 +3,7 @@ function initInfoControl() {
     infoControl();
 }
 
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-async function overlayControl() {
-    await sleep(1000);
+function overlayControl() {
 
     // for Layer Control
     const baseMaps = {

@@ -36,12 +36,6 @@ function resetHighlight(e) {
     deprivationInfoControl.update();
 }
 
-function usePreCombinedData() {
-    $.getJSON(combinedDataDeprivationFile, function (data) {
-        deprivationOverlay(data);
-    });
-}
-
 function deprivationOverlayInit() {
     let options = choroplethOptions (
         {
@@ -64,5 +58,4 @@ function deprivationOverlayInit() {
         .addTo(map);
 
     //combineDatasets();
-    usePreCombinedData();
 }
