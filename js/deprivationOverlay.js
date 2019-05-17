@@ -1,16 +1,7 @@
 function deprivationOverlay(geoData) {
     // Null variable that will hold layer
     deprivationLayer.addData(geoData);
-
     boundaryTop();
-}
-
-function forEachFeature(feature, layer) {
-
-    layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
-    });
 }
 
 function highlightFeature(e) {
@@ -44,7 +35,11 @@ function deprivationOverlayInit() {
             bezier: true,
             steps: 10,
             mode: 'q',
-            onEachFeature: forEachFeature,
+            onEachFeature: (feature, layer) => {
+                layer.on({mouseover: highlightFeature,
+                    mouseout: resetHighlight,
+                });
+            },
             style: {
                 fillOpacity: 0.8, //fill
                 weight: 1, //stroke
@@ -56,6 +51,4 @@ function deprivationOverlayInit() {
 
     deprivationLayer = new L.GeoJSON(null, options)
         .addTo(map);
-
-    //combineDatasets();
 }

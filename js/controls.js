@@ -1,11 +1,4 @@
-function initInfoControl() {
-    deprivationInfoControl = L.control();
-    infoControl();
-}
-
 function overlayControl() {
-
-    // for Layer Control
     const baseMaps = {
         "Mapbox": mapboxTileLayer,
         "Open Street Map": osmTileLayer
@@ -23,6 +16,7 @@ function overlayControl() {
 }
 
 function infoControl() {
+    deprivationInfoControl = L.control();
     deprivationInfoControl.onAdd = function () {
         this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
         this.update();
@@ -37,8 +31,8 @@ function infoControl() {
                 `<table><tr><th>Name:</th><td>${props.lsoaName}</td></tr>
                  <tr><th>IMD Decile:</th><td>${props.imdDecile}</td></tr></table>` :
                 '<div><strong>No region selected</strong><br />Hover over a region</div>'
-                }`;
+             }`;
     };
-    deprivationInfoControl.addTo(map);
 
+    deprivationInfoControl.addTo(map);
 }

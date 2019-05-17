@@ -36,7 +36,7 @@ function initialise() {
       }); //don't add to map as OSM is an option but not default. Can select via layer controls.
 
   console.log('initialise');
-  initInfoControl();          //def: deprivationInfoControl req: none
+  infoControl();          //def: deprivationInfoControl req: none
   boundaryOverlay();          //def: boundaryLayer
   meetingPlacesOverlayInit(); //def: meetingPlaces
   deprivationOverlayInit(); //def: lsoaLayer              req: deprivationInfoControl boundaryLayer
@@ -55,7 +55,7 @@ function loadData() {
         {
             deprivationOverlay(fetchDeprivation);
             boundaryLayer.addData(fetchBoundary);
-            meetingPlacesOverlay(fetchMeetingPlaces); //send actual data, filter out ajax response wrapper
+            meetingPlacesOverlay(fetchMeetingPlaces[0]); //send actual data, filter out ajax response wrapper
         }
     );
 }

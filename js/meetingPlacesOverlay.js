@@ -6,6 +6,7 @@ function meetingPlacesOverlayInit(){
 }
 
 function meetingPlacesOverlay(geoData) {
+    console.log(geoData);
     for (let i = 0; i < geoData.length; i++) {
         const item = geoData[i].features[0];
         const coords = item.geometry.coordinates;
