@@ -1,27 +1,18 @@
+let aldwarkMarkerLayer;
+let cysBoundaryLayer;
+let meetingPlacesLayer;
 let deprivationLayer;
-let boundaryLayer;
-let aldwark;
-let meetingPlaces;
-
 function initLayers (){
-	aldwark = L.layerGroup.markers(null, { name: "Aldwark marker" }).addTo(map);
-	boundaryLayer = L.geoJSON.boundary(null, { name: "Boundary" }).addTo(map);
-	meetingPlaces = L.layerGroup.markers(null, { name: "Meeting Places" }).addTo(map);
-	deprivationLayer = L.geoJSON.regions(null, {
-		name: "Deprivation",
-		choropleth: {
-			scale: ["white", "blue"],
-			bezier: false,
-			valueProperty: "imdDecile",
-			steps: 10,
-			mode: "e"
-		}
-	}).addTo(map); //def: deprivationLayer
+	aldwarkMarkerLayer = L.layerGroup.markers(null, {"name": "Aldwark Marker"}).addTo(map);
+	cysBoundaryLayer = L.geoJSON.boundary(null, {"name": "CYS Boundary"}).addTo(map);
+	meetingPlacesLayer = L.layerGroup.markers(null, {"name": "Meeting Places"}).addTo(map);
+	deprivationLayer = L.geoJSON.regions(null, {"choropleth": {"bezier": false, "valueProperty": "imdDecile", "scale": ["white", "blue"], "mode": "e", "steps": 10}, "name": "Deprivation"}).addTo(map);
+
 	deprivationLayer.controlFunction(function(props) {
 		this._div.innerHTML = "<h4>IMD Decile<br />(where 1 is most deprived)</h4>" +
 			(props
 				? `<table><tr><th>Name:</th><td>${props.lsoaName}</td></tr>
-					<tr><th>IMD Decile:</th><td>${props.imdDecile}</td></tr></table>`
+                    <tr><th>IMD Decile:</th><td>${props.imdDecile}</td></tr></table>`
 				: "<div><strong>No region selected</strong><br />Hover over a region</div>");
 	});
 	deprivationLayer.styleFunctionGenerator(choroplethOptions(
@@ -40,5 +31,5 @@ function initLayers (){
 		},
 		[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 	));
-	deprivationLayer.addTopLayer(boundaryLayer);
+	deprivationLayer.addTopLayer(cysBoundaryLayer);
 }

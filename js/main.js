@@ -1,6 +1,6 @@
 const initLat = 53.768196;
 const initLon = -1.41037;
-const initZoom = 10;
+const initZoom = 11;
 const combinedDataDeprivationFile = "data/deprivation_min.json";
 const combinedDataMeetingPlacesFile = "data/meeting_places_min.json";
 let map;
@@ -52,10 +52,10 @@ function loadData() {
 		$.getJSON("data/CYS Boundary Full.json")
 	).done((fetchDeprivation, fetchMeetingPlaces, fetchBoundary) => {
 		deprivationLayer.addData(fetchDeprivation);
-		boundaryLayer.addData(fetchBoundary);
-		meetingPlaces.addMarkers(fetchMeetingPlaces[0].features); //send actual data, filter out ajax response wrapper
-		aldwark.addMarkers([{type: "feature",geometry: {type: "Point",coordinates: [54.052837, -1.289845]},popup_details: "Aldwark Activity Centre"}]);
-		boundaryLayer.bringToFront();
+		cysBoundaryLayer.addData(fetchBoundary);
+		meetingPlacesLayer.addMarkers(fetchMeetingPlaces[0].features); //send actual data, filter out ajax response wrapper
+		aldwarkMarkerLayer.addMarkers([{type: "feature",geometry: {type: "Point",coordinates: [54.052837, -1.289845]},popup_details: "Aldwark Activity Centre"}]);
+		cysBoundaryLayer.bringToFront();
 	});
 }
 
